@@ -1,0 +1,1911 @@
+user_id,category_id,wallet_id,amount,type,title,transaction_date,category_name,category_type,wallet_name
+1,9,2,30000,income,Salary,2025-12-01,Salary,income,Bank
+1,1,3,182,expense,Food,2025-12-01,Food,expense,UPI
+1,3,4,213,expense,Transport,2025-12-01,Transport,expense,Credit Card
+1,5,3,181,expense,Entertainment,2025-12-01,Entertainment,expense,UPI
+2,19,6,35000,income,Salary,2025-12-01,Salary,income,Bank
+2,11,7,154,expense,Food,2025-12-01,Food,expense,UPI
+3,29,10,40000,income,Salary,2025-12-01,Salary,income,Bank
+3,23,12,218,expense,Transport,2025-12-01,Transport,expense,Credit Card
+1,1,3,116,expense,Food,2025-12-02,Food,expense,UPI
+2,11,6,220,expense,Food,2025-12-02,Food,expense,Bank
+3,21,12,97,expense,Food,2025-12-02,Food,expense,Credit Card
+3,23,11,52,expense,Transport,2025-12-02,Transport,expense,UPI
+1,1,3,217,expense,Food,2025-12-03,Food,expense,UPI
+1,3,3,283,expense,Transport,2025-12-03,Transport,expense,UPI
+2,11,7,220,expense,Food,2025-12-03,Food,expense,UPI
+3,25,11,431,expense,Entertainment,2025-12-03,Entertainment,expense,UPI
+2,13,7,97,expense,Transport,2025-12-04,Transport,expense,UPI
+3,23,11,299,expense,Transport,2025-12-04,Transport,expense,UPI
+3,25,11,265,expense,Entertainment,2025-12-04,Entertainment,expense,UPI
+1,2,2,8000,expense,Rent,2025-12-05,Rent,expense,Bank
+1,1,3,104,expense,Food,2025-12-05,Food,expense,UPI
+1,3,2,173,expense,Transport,2025-12-05,Transport,expense,Bank
+1,7,4,1768,expense,Health,2025-12-05,Health,expense,Credit Card
+2,12,6,8000,expense,Rent,2025-12-05,Rent,expense,Bank
+2,11,7,317,expense,Food,2025-12-05,Food,expense,UPI
+2,13,7,153,expense,Transport,2025-12-05,Transport,expense,UPI
+3,22,10,8000,expense,Rent,2025-12-05,Rent,expense,Bank
+3,21,11,418,expense,Food,2025-12-05,Food,expense,UPI
+1,1,4,280,expense,Food,2025-12-06,Food,expense,Credit Card
+1,5,3,170,expense,Entertainment,2025-12-06,Entertainment,expense,UPI
+2,15,8,1144,expense,Entertainment,2025-12-06,Entertainment,expense,Credit Card
+3,21,11,361,expense,Food,2025-12-06,Food,expense,UPI
+1,1,4,237,expense,Food,2025-12-07,Food,expense,Credit Card
+1,3,3,227,expense,Transport,2025-12-07,Transport,expense,UPI
+2,11,7,272,expense,Food,2025-12-07,Food,expense,UPI
+2,13,7,121,expense,Transport,2025-12-07,Transport,expense,UPI
+3,21,9,165,expense,Food,2025-12-07,Food,expense,Cash
+3,25,11,852,expense,Entertainment,2025-12-07,Entertainment,expense,UPI
+1,1,2,291,expense,Food,2025-12-08,Food,expense,Bank
+1,3,4,248,expense,Transport,2025-12-08,Transport,expense,Credit Card
+1,5,3,595,expense,Entertainment,2025-12-08,Entertainment,expense,UPI
+2,11,5,444,expense,Food,2025-12-08,Food,expense,Cash
+2,13,7,122,expense,Transport,2025-12-08,Transport,expense,UPI
+3,21,11,183,expense,Food,2025-12-08,Food,expense,UPI
+3,23,10,150,expense,Transport,2025-12-08,Transport,expense,Bank
+2,11,7,159,expense,Food,2025-12-09,Food,expense,UPI
+2,13,7,132,expense,Transport,2025-12-09,Transport,expense,UPI
+3,21,11,434,expense,Food,2025-12-09,Food,expense,UPI
+1,6,2,1503,expense,Bills,2025-12-10,Bills,expense,Bank
+1,1,3,352,expense,Food,2025-12-10,Food,expense,UPI
+1,3,3,44,expense,Transport,2025-12-10,Transport,expense,UPI
+2,16,6,1258,expense,Bills,2025-12-10,Bills,expense,Bank
+2,13,7,191,expense,Transport,2025-12-10,Transport,expense,UPI
+3,26,10,1783,expense,Bills,2025-12-10,Bills,expense,Bank
+3,21,9,309,expense,Food,2025-12-10,Food,expense,Cash
+3,23,9,171,expense,Transport,2025-12-10,Transport,expense,Cash
+1,1,3,329,expense,Food,2025-12-11,Food,expense,UPI
+1,3,3,233,expense,Transport,2025-12-11,Transport,expense,UPI
+1,4,3,2996,expense,Shopping,2025-12-11,Shopping,expense,UPI
+2,11,7,425,expense,Food,2025-12-11,Food,expense,UPI
+1,1,4,191,expense,Food,2025-12-12,Food,expense,Credit Card
+2,11,5,181,expense,Food,2025-12-12,Food,expense,Cash
+3,21,11,415,expense,Food,2025-12-12,Food,expense,UPI
+3,24,11,1047,expense,Shopping,2025-12-12,Shopping,expense,UPI
+3,25,12,819,expense,Entertainment,2025-12-12,Entertainment,expense,Credit Card
+1,1,1,238,expense,Food,2025-12-13,Food,expense,Cash
+1,3,3,268,expense,Transport,2025-12-13,Transport,expense,UPI
+2,11,7,127,expense,Food,2025-12-13,Food,expense,UPI
+2,13,8,245,expense,Transport,2025-12-13,Transport,expense,Credit Card
+3,21,11,369,expense,Food,2025-12-13,Food,expense,UPI
+2,11,8,203,expense,Food,2025-12-14,Food,expense,Credit Card
+3,21,12,120,expense,Food,2025-12-14,Food,expense,Credit Card
+1,8,3,1500,expense,Education,2025-12-15,Education,expense,UPI
+1,1,3,374,expense,Food,2025-12-15,Food,expense,UPI
+1,3,3,82,expense,Transport,2025-12-15,Transport,expense,UPI
+2,18,7,1500,expense,Education,2025-12-15,Education,expense,UPI
+2,11,5,228,expense,Food,2025-12-15,Food,expense,Cash
+3,28,11,1500,expense,Education,2025-12-15,Education,expense,UPI
+3,23,10,102,expense,Transport,2025-12-15,Transport,expense,Bank
+3,24,11,2267,expense,Shopping,2025-12-15,Shopping,expense,UPI
+1,1,3,293,expense,Food,2025-12-16,Food,expense,UPI
+1,3,4,30,expense,Transport,2025-12-16,Transport,expense,Credit Card
+2,11,5,215,expense,Food,2025-12-16,Food,expense,Cash
+2,13,5,119,expense,Transport,2025-12-16,Transport,expense,Cash
+3,21,11,231,expense,Food,2025-12-16,Food,expense,UPI
+3,23,11,64,expense,Transport,2025-12-16,Transport,expense,UPI
+1,7,3,1189,expense,Health,2025-12-17,Health,expense,UPI
+2,11,5,2016,expense,Food,2025-12-17,Food,expense,Cash
+2,13,7,158,expense,Transport,2025-12-17,Transport,expense,UPI
+3,21,11,314,expense,Food,2025-12-17,Food,expense,UPI
+3,23,12,233,expense,Transport,2025-12-17,Transport,expense,Credit Card
+1,1,3,256,expense,Food,2025-12-18,Food,expense,UPI
+1,4,3,2000,expense,Shopping,2025-12-18,Shopping,expense,UPI
+2,11,7,323,expense,Food,2025-12-18,Food,expense,UPI
+2,13,8,238,expense,Transport,2025-12-18,Transport,expense,Credit Card
+2,14,7,775,expense,Shopping,2025-12-18,Shopping,expense,UPI
+3,21,11,394,expense,Food,2025-12-18,Food,expense,UPI
+3,23,12,210,expense,Transport,2025-12-18,Transport,expense,Credit Card
+2,11,8,355,expense,Food,2025-12-19,Food,expense,Credit Card
+2,13,7,97,expense,Transport,2025-12-19,Transport,expense,UPI
+3,21,11,109,expense,Food,2025-12-19,Food,expense,UPI
+3,23,11,116,expense,Transport,2025-12-19,Transport,expense,UPI
+1,1,3,231,expense,Food,2025-12-20,Food,expense,UPI
+2,11,5,397,expense,Food,2025-12-20,Food,expense,Cash
+2,15,7,941,expense,Entertainment,2025-12-20,Entertainment,expense,UPI
+3,21,12,282,expense,Food,2025-12-20,Food,expense,Credit Card
+1,1,3,331,expense,Food,2025-12-21,Food,expense,UPI
+1,3,3,156,expense,Transport,2025-12-21,Transport,expense,UPI
+1,7,3,1498,expense,Health,2025-12-21,Health,expense,UPI
+2,11,5,130,expense,Food,2025-12-21,Food,expense,Cash
+2,13,7,132,expense,Transport,2025-12-21,Transport,expense,UPI
+3,21,12,388,expense,Food,2025-12-21,Food,expense,Credit Card
+3,23,11,35,expense,Transport,2025-12-21,Transport,expense,UPI
+1,1,4,321,expense,Food,2025-12-22,Food,expense,Credit Card
+1,7,3,490,expense,Health,2025-12-22,Health,expense,UPI
+2,11,5,161,expense,Food,2025-12-22,Food,expense,Cash
+3,21,11,383,expense,Food,2025-12-22,Food,expense,UPI
+3,24,11,1142,expense,Shopping,2025-12-22,Shopping,expense,UPI
+1,1,4,108,expense,Food,2025-12-23,Food,expense,Credit Card
+3,21,11,217,expense,Food,2025-12-23,Food,expense,UPI
+1,1,2,315,expense,Food,2025-12-24,Food,expense,Bank
+2,13,8,175,expense,Transport,2025-12-24,Transport,expense,Credit Card
+3,21,12,387,expense,Food,2025-12-24,Food,expense,Credit Card
+3,23,12,96,expense,Transport,2025-12-24,Transport,expense,Credit Card
+1,1,4,147,expense,Food,2025-12-25,Food,expense,Credit Card
+1,3,4,122,expense,Transport,2025-12-25,Transport,expense,Credit Card
+2,11,6,112,expense,Food,2025-12-25,Food,expense,Bank
+3,21,11,373,expense,Food,2025-12-25,Food,expense,UPI
+3,23,11,217,expense,Transport,2025-12-25,Transport,expense,UPI
+1,1,3,356,expense,Food,2025-12-26,Food,expense,UPI
+1,3,4,103,expense,Transport,2025-12-26,Transport,expense,Credit Card
+2,11,7,362,expense,Food,2025-12-26,Food,expense,UPI
+2,13,7,161,expense,Transport,2025-12-26,Transport,expense,UPI
+3,21,11,152,expense,Food,2025-12-26,Food,expense,UPI
+3,23,11,34,expense,Transport,2025-12-26,Transport,expense,UPI
+1,1,1,127,expense,Food,2025-12-27,Food,expense,Cash
+2,11,7,148,expense,Food,2025-12-27,Food,expense,UPI
+2,13,6,159,expense,Transport,2025-12-27,Transport,expense,Bank
+3,21,11,135,expense,Food,2025-12-27,Food,expense,UPI
+1,1,1,373,expense,Food,2025-12-28,Food,expense,Cash
+1,3,3,152,expense,Transport,2025-12-28,Transport,expense,UPI
+2,11,5,306,expense,Food,2025-12-28,Food,expense,Cash
+3,21,11,144,expense,Food,2025-12-28,Food,expense,UPI
+3,23,11,152,expense,Transport,2025-12-28,Transport,expense,UPI
+1,1,4,248,expense,Food,2025-12-29,Food,expense,Credit Card
+2,11,6,237,expense,Food,2025-12-29,Food,expense,Bank
+3,21,11,194,expense,Food,2025-12-29,Food,expense,UPI
+1,1,1,429,expense,Food,2025-12-30,Food,expense,Cash
+1,5,3,604,expense,Entertainment,2025-12-30,Entertainment,expense,UPI
+2,11,7,436,expense,Food,2025-12-30,Food,expense,UPI
+3,21,11,95,expense,Food,2025-12-30,Food,expense,UPI
+1,1,1,315,expense,Food,2025-12-31,Food,expense,Cash
+1,3,3,124,expense,Transport,2025-12-31,Transport,expense,UPI
+2,11,5,187,expense,Food,2025-12-31,Food,expense,Cash
+3,21,11,439,expense,Food,2025-12-31,Food,expense,UPI
+3,23,11,297,expense,Transport,2025-12-31,Transport,expense,UPI
+1,9,2,30000,income,Salary,2026-01-01,Salary,income,Bank
+1,1,3,360,expense,Food,2026-01-01,Food,expense,UPI
+2,19,6,35000,income,Salary,2026-01-01,Salary,income,Bank
+2,13,5,63,expense,Transport,2026-01-01,Transport,expense,Cash
+3,29,10,40000,income,Salary,2026-01-01,Salary,income,Bank
+3,21,9,284,expense,Food,2026-01-01,Food,expense,Cash
+3,23,10,276,expense,Transport,2026-01-01,Transport,expense,Bank
+1,1,4,268,expense,Food,2026-01-02,Food,expense,Credit Card
+1,3,4,295,expense,Transport,2026-01-02,Transport,expense,Credit Card
+3,21,11,426,expense,Food,2026-01-02,Food,expense,UPI
+1,1,2,261,expense,Food,2026-01-03,Food,expense,Bank
+1,3,3,123,expense,Transport,2026-01-03,Transport,expense,UPI
+2,11,7,338,expense,Food,2026-01-03,Food,expense,UPI
+3,21,12,380,expense,Food,2026-01-03,Food,expense,Credit Card
+3,23,9,252,expense,Transport,2026-01-03,Transport,expense,Cash
+1,1,1,402,expense,Food,2026-01-04,Food,expense,Cash
+2,11,7,322,expense,Food,2026-01-04,Food,expense,UPI
+2,13,7,292,expense,Transport,2026-01-04,Transport,expense,UPI
+1,2,2,8000,expense,Rent,2026-01-05,Rent,expense,Bank
+1,1,4,403,expense,Food,2026-01-05,Food,expense,Credit Card
+1,3,3,200,expense,Transport,2026-01-05,Transport,expense,UPI
+2,12,6,8000,expense,Rent,2026-01-05,Rent,expense,Bank
+2,11,7,314,expense,Food,2026-01-05,Food,expense,UPI
+3,22,10,8000,expense,Rent,2026-01-05,Rent,expense,Bank
+3,21,12,189,expense,Food,2026-01-05,Food,expense,Credit Card
+3,23,11,173,expense,Transport,2026-01-05,Transport,expense,UPI
+1,1,4,309,expense,Food,2026-01-06,Food,expense,Credit Card
+1,3,2,69,expense,Transport,2026-01-06,Transport,expense,Bank
+2,11,8,413,expense,Food,2026-01-06,Food,expense,Credit Card
+3,21,9,237,expense,Food,2026-01-06,Food,expense,Cash
+3,23,12,84,expense,Transport,2026-01-06,Transport,expense,Credit Card
+1,1,1,447,expense,Food,2026-01-07,Food,expense,Cash
+1,3,2,208,expense,Transport,2026-01-07,Transport,expense,Bank
+2,11,7,304,expense,Food,2026-01-07,Food,expense,UPI
+2,13,6,107,expense,Transport,2026-01-07,Transport,expense,Bank
+3,21,9,331,expense,Food,2026-01-07,Food,expense,Cash
+2,11,7,189,expense,Food,2026-01-08,Food,expense,UPI
+1,3,4,232,expense,Transport,2026-01-09,Transport,expense,Credit Card
+2,11,6,398,expense,Food,2026-01-09,Food,expense,Bank
+3,21,12,85,expense,Food,2026-01-09,Food,expense,Credit Card
+1,6,2,1798,expense,Bills,2026-01-10,Bills,expense,Bank
+1,1,1,217,expense,Food,2026-01-10,Food,expense,Cash
+2,16,6,1535,expense,Bills,2026-01-10,Bills,expense,Bank
+2,13,7,252,expense,Transport,2026-01-10,Transport,expense,UPI
+3,26,10,1343,expense,Bills,2026-01-10,Bills,expense,Bank
+3,21,11,448,expense,Food,2026-01-10,Food,expense,UPI
+3,23,11,175,expense,Transport,2026-01-10,Transport,expense,UPI
+1,1,3,297,expense,Food,2026-01-11,Food,expense,UPI
+2,11,6,184,expense,Food,2026-01-11,Food,expense,Bank
+3,21,10,216,expense,Food,2026-01-11,Food,expense,Bank
+3,25,11,1167,expense,Entertainment,2026-01-11,Entertainment,expense,UPI
+1,3,3,203,expense,Transport,2026-01-12,Transport,expense,UPI
+1,5,3,1188,expense,Entertainment,2026-01-12,Entertainment,expense,UPI
+2,11,8,285,expense,Food,2026-01-12,Food,expense,Credit Card
+3,21,9,183,expense,Food,2026-01-12,Food,expense,Cash
+1,1,4,129,expense,Food,2026-01-13,Food,expense,Credit Card
+1,3,4,189,expense,Transport,2026-01-13,Transport,expense,Credit Card
+1,4,3,642,expense,Shopping,2026-01-13,Shopping,expense,UPI
+2,11,7,214,expense,Food,2026-01-13,Food,expense,UPI
+3,21,10,324,expense,Food,2026-01-13,Food,expense,Bank
+3,23,9,38,expense,Transport,2026-01-13,Transport,expense,Cash
+1,1,4,244,expense,Food,2026-01-14,Food,expense,Credit Card
+2,11,5,343,expense,Food,2026-01-14,Food,expense,Cash
+2,13,5,110,expense,Transport,2026-01-14,Transport,expense,Cash
+3,21,9,405,expense,Food,2026-01-14,Food,expense,Cash
+1,8,3,1500,expense,Education,2026-01-15,Education,expense,UPI
+1,1,4,228,expense,Food,2026-01-15,Food,expense,Credit Card
+2,18,7,1500,expense,Education,2026-01-15,Education,expense,UPI
+2,15,7,603,expense,Entertainment,2026-01-15,Entertainment,expense,UPI
+3,28,11,1500,expense,Education,2026-01-15,Education,expense,UPI
+3,21,11,102,expense,Food,2026-01-15,Food,expense,UPI
+2,11,7,118,expense,Food,2026-01-16,Food,expense,UPI
+3,21,9,123,expense,Food,2026-01-16,Food,expense,Cash
+3,23,11,146,expense,Transport,2026-01-16,Transport,expense,UPI
+1,1,1,305,expense,Food,2026-01-17,Food,expense,Cash
+1,5,3,951,expense,Entertainment,2026-01-17,Entertainment,expense,UPI
+2,11,7,133,expense,Food,2026-01-17,Food,expense,UPI
+2,14,8,2924,expense,Shopping,2026-01-17,Shopping,expense,Credit Card
+2,15,7,545,expense,Entertainment,2026-01-17,Entertainment,expense,UPI
+3,21,11,200,expense,Food,2026-01-17,Food,expense,UPI
+1,1,3,110,expense,Food,2026-01-18,Food,expense,UPI
+1,3,3,194,expense,Transport,2026-01-18,Transport,expense,UPI
+2,11,7,331,expense,Food,2026-01-18,Food,expense,UPI
+3,23,11,285,expense,Transport,2026-01-18,Transport,expense,UPI
+1,1,3,239,expense,Food,2026-01-19,Food,expense,UPI
+1,3,3,92,expense,Transport,2026-01-19,Transport,expense,UPI
+2,11,8,241,expense,Food,2026-01-19,Food,expense,Credit Card
+2,13,7,115,expense,Transport,2026-01-19,Transport,expense,UPI
+3,21,11,437,expense,Food,2026-01-19,Food,expense,UPI
+3,23,10,154,expense,Transport,2026-01-19,Transport,expense,Bank
+1,10,2,6569,income,Freelance,2026-01-20,Freelance,income,Bank
+1,1,3,226,expense,Food,2026-01-20,Food,expense,UPI
+1,3,3,120,expense,Transport,2026-01-20,Transport,expense,UPI
+2,13,8,251,expense,Transport,2026-01-20,Transport,expense,Credit Card
+3,30,10,7934,income,Freelance,2026-01-20,Freelance,income,Bank
+3,21,12,108,expense,Food,2026-01-20,Food,expense,Credit Card
+1,1,1,406,expense,Food,2026-01-21,Food,expense,Cash
+2,11,7,254,expense,Food,2026-01-21,Food,expense,UPI
+3,21,11,94,expense,Food,2026-01-21,Food,expense,UPI
+3,23,11,204,expense,Transport,2026-01-21,Transport,expense,UPI
+3,25,9,554,expense,Entertainment,2026-01-21,Entertainment,expense,Cash
+1,4,2,1843,expense,Shopping,2026-01-22,Shopping,expense,Bank
+2,11,6,247,expense,Food,2026-01-22,Food,expense,Bank
+3,21,11,342,expense,Food,2026-01-22,Food,expense,UPI
+1,3,4,213,expense,Transport,2026-01-23,Transport,expense,Credit Card
+1,4,1,1204,expense,Shopping,2026-01-23,Shopping,expense,Cash
+2,11,7,395,expense,Food,2026-01-23,Food,expense,UPI
+3,21,10,195,expense,Food,2026-01-23,Food,expense,Bank
+1,1,1,318,expense,Food,2026-01-24,Food,expense,Cash
+1,3,3,220,expense,Transport,2026-01-24,Transport,expense,UPI
+2,11,5,268,expense,Food,2026-01-24,Food,expense,Cash
+2,13,7,287,expense,Transport,2026-01-24,Transport,expense,UPI
+3,23,11,243,expense,Transport,2026-01-24,Transport,expense,UPI
+1,1,1,404,expense,Food,2026-01-25,Food,expense,Cash
+2,11,5,414,expense,Food,2026-01-25,Food,expense,Cash
+2,14,7,2243,expense,Shopping,2026-01-25,Shopping,expense,UPI
+3,21,12,167,expense,Food,2026-01-25,Food,expense,Credit Card
+3,23,10,242,expense,Transport,2026-01-25,Transport,expense,Bank
+1,1,3,365,expense,Food,2026-01-26,Food,expense,UPI
+2,11,5,403,expense,Food,2026-01-26,Food,expense,Cash
+2,13,7,130,expense,Transport,2026-01-26,Transport,expense,UPI
+3,21,11,139,expense,Food,2026-01-26,Food,expense,UPI
+3,23,11,254,expense,Transport,2026-01-26,Transport,expense,UPI
+3,24,10,2505,expense,Shopping,2026-01-26,Shopping,expense,Bank
+1,1,3,218,expense,Food,2026-01-27,Food,expense,UPI
+1,3,3,91,expense,Transport,2026-01-27,Transport,expense,UPI
+1,5,4,502,expense,Entertainment,2026-01-27,Entertainment,expense,Credit Card
+2,11,6,255,expense,Food,2026-01-27,Food,expense,Bank
+3,23,11,70,expense,Transport,2026-01-27,Transport,expense,UPI
+1,1,3,125,expense,Food,2026-01-28,Food,expense,UPI
+1,3,1,198,expense,Transport,2026-01-28,Transport,expense,Cash
+1,4,4,1650,expense,Shopping,2026-01-28,Shopping,expense,Credit Card
+2,11,8,188,expense,Food,2026-01-28,Food,expense,Credit Card
+2,13,7,184,expense,Transport,2026-01-28,Transport,expense,UPI
+3,21,10,281,expense,Food,2026-01-28,Food,expense,Bank
+3,25,12,196,expense,Entertainment,2026-01-28,Entertainment,expense,Credit Card
+1,1,4,212,expense,Food,2026-01-29,Food,expense,Credit Card
+1,3,3,207,expense,Transport,2026-01-29,Transport,expense,UPI
+1,4,1,2343,expense,Shopping,2026-01-29,Shopping,expense,Cash
+2,11,5,387,expense,Food,2026-01-29,Food,expense,Cash
+3,21,12,429,expense,Food,2026-01-29,Food,expense,Credit Card
+3,23,11,244,expense,Transport,2026-01-29,Transport,expense,UPI
+1,1,4,255,expense,Food,2026-01-30,Food,expense,Credit Card
+1,3,1,107,expense,Transport,2026-01-30,Transport,expense,Cash
+1,5,1,437,expense,Entertainment,2026-01-30,Entertainment,expense,Cash
+2,11,7,243,expense,Food,2026-01-30,Food,expense,UPI
+3,21,12,179,expense,Food,2026-01-30,Food,expense,Credit Card
+3,23,11,146,expense,Transport,2026-01-30,Transport,expense,UPI
+1,1,3,189,expense,Food,2026-01-31,Food,expense,UPI
+1,3,4,75,expense,Transport,2026-01-31,Transport,expense,Credit Card
+3,21,9,230,expense,Food,2026-01-31,Food,expense,Cash
+1,9,2,30000,income,Salary,2026-02-01,Salary,income,Bank
+2,19,6,35000,income,Salary,2026-02-01,Salary,income,Bank
+2,11,7,431,expense,Food,2026-02-01,Food,expense,UPI
+2,13,7,151,expense,Transport,2026-02-01,Transport,expense,UPI
+3,29,10,40000,income,Salary,2026-02-01,Salary,income,Bank
+3,21,11,196,expense,Food,2026-02-01,Food,expense,UPI
+3,23,10,37,expense,Transport,2026-02-01,Transport,expense,Bank
+1,1,4,340,expense,Food,2026-02-02,Food,expense,Credit Card
+1,3,1,217,expense,Transport,2026-02-02,Transport,expense,Cash
+2,11,7,344,expense,Food,2026-02-02,Food,expense,UPI
+3,21,12,283,expense,Food,2026-02-02,Food,expense,Credit Card
+3,23,11,73,expense,Transport,2026-02-02,Transport,expense,UPI
+1,1,3,444,expense,Food,2026-02-03,Food,expense,UPI
+2,11,7,444,expense,Food,2026-02-03,Food,expense,UPI
+2,13,8,48,expense,Transport,2026-02-03,Transport,expense,Credit Card
+3,21,11,293,expense,Food,2026-02-03,Food,expense,UPI
+3,23,11,50,expense,Transport,2026-02-03,Transport,expense,UPI
+2,11,8,388,expense,Food,2026-02-04,Food,expense,Credit Card
+3,21,10,272,expense,Food,2026-02-04,Food,expense,Bank
+3,23,11,83,expense,Transport,2026-02-04,Transport,expense,UPI
+1,2,2,8000,expense,Rent,2026-02-05,Rent,expense,Bank
+1,1,3,317,expense,Food,2026-02-05,Food,expense,UPI
+2,12,6,8000,expense,Rent,2026-02-05,Rent,expense,Bank
+2,13,6,41,expense,Transport,2026-02-05,Transport,expense,Bank
+2,15,6,960,expense,Entertainment,2026-02-05,Entertainment,expense,Bank
+3,22,10,8000,expense,Rent,2026-02-05,Rent,expense,Bank
+3,21,9,309,expense,Food,2026-02-05,Food,expense,Cash
+3,23,12,177,expense,Transport,2026-02-05,Transport,expense,Credit Card
+1,3,3,216,expense,Transport,2026-02-06,Transport,expense,UPI
+2,11,7,399,expense,Food,2026-02-06,Food,expense,UPI
+2,13,6,123,expense,Transport,2026-02-06,Transport,expense,Bank
+3,21,11,125,expense,Food,2026-02-06,Food,expense,UPI
+3,23,11,44,expense,Transport,2026-02-06,Transport,expense,UPI
+2,11,7,449,expense,Food,2026-02-07,Food,expense,UPI
+2,13,8,164,expense,Transport,2026-02-07,Transport,expense,Credit Card
+2,14,7,1535,expense,Shopping,2026-02-07,Shopping,expense,UPI
+3,21,11,301,expense,Food,2026-02-07,Food,expense,UPI
+3,27,11,508,expense,Health,2026-02-07,Health,expense,UPI
+1,1,3,229,expense,Food,2026-02-08,Food,expense,UPI
+1,3,3,182,expense,Transport,2026-02-08,Transport,expense,UPI
+2,11,7,385,expense,Food,2026-02-08,Food,expense,UPI
+3,21,10,286,expense,Food,2026-02-08,Food,expense,Bank
+3,23,11,193,expense,Transport,2026-02-08,Transport,expense,UPI
+3,25,11,899,expense,Entertainment,2026-02-08,Entertainment,expense,UPI
+1,1,3,410,expense,Food,2026-02-09,Food,expense,UPI
+1,3,2,116,expense,Transport,2026-02-09,Transport,expense,Bank
+2,11,7,269,expense,Food,2026-02-09,Food,expense,UPI
+2,13,5,158,expense,Transport,2026-02-09,Transport,expense,Cash
+2,14,7,596,expense,Shopping,2026-02-09,Shopping,expense,UPI
+1,6,2,1792,expense,Bills,2026-02-10,Bills,expense,Bank
+1,1,4,296,expense,Food,2026-02-10,Food,expense,Credit Card
+1,3,1,197,expense,Transport,2026-02-10,Transport,expense,Cash
+2,16,6,1232,expense,Bills,2026-02-10,Bills,expense,Bank
+2,11,8,151,expense,Food,2026-02-10,Food,expense,Credit Card
+2,13,7,141,expense,Transport,2026-02-10,Transport,expense,UPI
+3,26,10,1682,expense,Bills,2026-02-10,Bills,expense,Bank
+3,24,11,860,expense,Shopping,2026-02-10,Shopping,expense,UPI
+1,1,3,144,expense,Food,2026-02-11,Food,expense,UPI
+2,11,5,337,expense,Food,2026-02-11,Food,expense,Cash
+3,21,10,190,expense,Food,2026-02-11,Food,expense,Bank
+3,23,11,220,expense,Transport,2026-02-11,Transport,expense,UPI
+1,1,3,125,expense,Food,2026-02-12,Food,expense,UPI
+3,21,11,175,expense,Food,2026-02-12,Food,expense,UPI
+3,23,11,175,expense,Transport,2026-02-12,Transport,expense,UPI
+1,1,1,170,expense,Food,2026-02-13,Food,expense,Cash
+2,11,8,117,expense,Food,2026-02-13,Food,expense,Credit Card
+2,14,5,2809,expense,Shopping,2026-02-13,Shopping,expense,Cash
+3,23,11,290,expense,Transport,2026-02-13,Transport,expense,UPI
+1,1,1,278,expense,Food,2026-02-14,Food,expense,Cash
+2,13,6,299,expense,Transport,2026-02-14,Transport,expense,Bank
+3,25,9,263,expense,Entertainment,2026-02-14,Entertainment,expense,Cash
+1,8,3,1500,expense,Education,2026-02-15,Education,expense,UPI
+1,1,2,281,expense,Food,2026-02-15,Food,expense,Bank
+1,3,2,260,expense,Transport,2026-02-15,Transport,expense,Bank
+2,18,7,1500,expense,Education,2026-02-15,Education,expense,UPI
+2,11,7,175,expense,Food,2026-02-15,Food,expense,UPI
+2,13,8,244,expense,Transport,2026-02-15,Transport,expense,Credit Card
+3,28,11,1500,expense,Education,2026-02-15,Education,expense,UPI
+1,1,3,132,expense,Food,2026-02-16,Food,expense,UPI
+1,3,3,100,expense,Transport,2026-02-16,Transport,expense,UPI
+2,11,8,84,expense,Food,2026-02-16,Food,expense,Credit Card
+2,15,7,472,expense,Entertainment,2026-02-16,Entertainment,expense,UPI
+3,21,12,340,expense,Food,2026-02-16,Food,expense,Credit Card
+3,23,11,277,expense,Transport,2026-02-16,Transport,expense,UPI
+1,1,3,357,expense,Food,2026-02-17,Food,expense,UPI
+2,11,5,161,expense,Food,2026-02-17,Food,expense,Cash
+2,13,8,266,expense,Transport,2026-02-17,Transport,expense,Credit Card
+2,14,7,2200,expense,Shopping,2026-02-17,Shopping,expense,UPI
+2,15,5,215,expense,Entertainment,2026-02-17,Entertainment,expense,Cash
+3,21,9,135,expense,Food,2026-02-17,Food,expense,Cash
+3,23,11,61,expense,Transport,2026-02-17,Transport,expense,UPI
+1,1,4,248,expense,Food,2026-02-18,Food,expense,Credit Card
+1,5,3,997,expense,Entertainment,2026-02-18,Entertainment,expense,UPI
+2,11,8,356,expense,Food,2026-02-18,Food,expense,Credit Card
+2,14,7,472,expense,Shopping,2026-02-18,Shopping,expense,UPI
+3,21,10,92,expense,Food,2026-02-18,Food,expense,Bank
+3,23,12,237,expense,Transport,2026-02-18,Transport,expense,Credit Card
+1,3,4,275,expense,Transport,2026-02-19,Transport,expense,Credit Card
+2,11,5,209,expense,Food,2026-02-19,Food,expense,Cash
+2,13,7,173,expense,Transport,2026-02-19,Transport,expense,UPI
+2,17,7,886,expense,Health,2026-02-19,Health,expense,UPI
+3,21,11,277,expense,Food,2026-02-19,Food,expense,UPI
+1,1,3,380,expense,Food,2026-02-20,Food,expense,UPI
+1,3,4,269,expense,Transport,2026-02-20,Transport,expense,Credit Card
+1,4,3,572,expense,Shopping,2026-02-20,Shopping,expense,UPI
+1,5,1,888,expense,Entertainment,2026-02-20,Entertainment,expense,Cash
+2,11,7,160,expense,Food,2026-02-20,Food,expense,UPI
+2,14,7,1081,expense,Shopping,2026-02-20,Shopping,expense,UPI
+3,30,10,7898,income,Freelance,2026-02-20,Freelance,income,Bank
+3,21,12,168,expense,Food,2026-02-20,Food,expense,Credit Card
+1,1,1,299,expense,Food,2026-02-21,Food,expense,Cash
+2,11,7,318,expense,Food,2026-02-21,Food,expense,UPI
+2,13,7,218,expense,Transport,2026-02-21,Transport,expense,UPI
+3,21,11,163,expense,Food,2026-02-21,Food,expense,UPI
+1,1,3,276,expense,Food,2026-02-22,Food,expense,UPI
+1,3,3,119,expense,Transport,2026-02-22,Transport,expense,UPI
+1,4,3,1302,expense,Shopping,2026-02-22,Shopping,expense,UPI
+2,11,7,304,expense,Food,2026-02-22,Food,expense,UPI
+2,13,7,247,expense,Transport,2026-02-22,Transport,expense,UPI
+3,21,10,192,expense,Food,2026-02-22,Food,expense,Bank
+1,1,4,418,expense,Food,2026-02-23,Food,expense,Credit Card
+2,11,7,253,expense,Food,2026-02-23,Food,expense,UPI
+3,21,12,347,expense,Food,2026-02-23,Food,expense,Credit Card
+1,1,4,354,expense,Food,2026-02-24,Food,expense,Credit Card
+1,3,1,188,expense,Transport,2026-02-24,Transport,expense,Cash
+2,11,5,171,expense,Food,2026-02-24,Food,expense,Cash
+3,21,12,354,expense,Food,2026-02-24,Food,expense,Credit Card
+3,23,12,125,expense,Transport,2026-02-24,Transport,expense,Credit Card
+2,11,8,98,expense,Food,2026-02-25,Food,expense,Credit Card
+2,13,7,200,expense,Transport,2026-02-25,Transport,expense,UPI
+2,14,7,891,expense,Shopping,2026-02-25,Shopping,expense,UPI
+3,21,10,418,expense,Food,2026-02-25,Food,expense,Bank
+3,24,11,1411,expense,Shopping,2026-02-25,Shopping,expense,UPI
+3,25,12,713,expense,Entertainment,2026-02-25,Entertainment,expense,Credit Card
+1,1,1,239,expense,Food,2026-02-26,Food,expense,Cash
+2,11,5,173,expense,Food,2026-02-26,Food,expense,Cash
+2,13,8,51,expense,Transport,2026-02-26,Transport,expense,Credit Card
+3,21,11,386,expense,Food,2026-02-26,Food,expense,UPI
+3,23,10,205,expense,Transport,2026-02-26,Transport,expense,Bank
+3,24,11,1318,expense,Shopping,2026-02-26,Shopping,expense,UPI
+1,1,3,393,expense,Food,2026-02-27,Food,expense,UPI
+3,21,11,422,expense,Food,2026-02-27,Food,expense,UPI
+1,1,4,86,expense,Food,2026-02-28,Food,expense,Credit Card
+1,3,3,252,expense,Transport,2026-02-28,Transport,expense,UPI
+2,11,5,394,expense,Food,2026-02-28,Food,expense,Cash
+3,21,9,109,expense,Food,2026-02-28,Food,expense,Cash
+3,25,11,230,expense,Entertainment,2026-02-28,Entertainment,expense,UPI
+1,9,2,30000,income,Salary,2026-03-01,Salary,income,Bank
+1,1,1,439,expense,Food,2026-03-01,Food,expense,Cash
+1,3,1,242,expense,Transport,2026-03-01,Transport,expense,Cash
+2,19,6,35000,income,Salary,2026-03-01,Salary,income,Bank
+2,11,7,297,expense,Food,2026-03-01,Food,expense,UPI
+2,13,8,110,expense,Transport,2026-03-01,Transport,expense,Credit Card
+2,15,7,549,expense,Entertainment,2026-03-01,Entertainment,expense,UPI
+3,29,10,40000,income,Salary,2026-03-01,Salary,income,Bank
+3,21,11,213,expense,Food,2026-03-01,Food,expense,UPI
+3,23,10,150,expense,Transport,2026-03-01,Transport,expense,Bank
+1,1,1,270,expense,Food,2026-03-02,Food,expense,Cash
+1,3,3,180,expense,Transport,2026-03-02,Transport,expense,UPI
+2,11,7,368,expense,Food,2026-03-02,Food,expense,UPI
+3,21,9,143,expense,Food,2026-03-02,Food,expense,Cash
+3,23,11,69,expense,Transport,2026-03-02,Transport,expense,UPI
+1,1,3,429,expense,Food,2026-03-03,Food,expense,UPI
+2,11,7,226,expense,Food,2026-03-03,Food,expense,UPI
+3,21,12,321,expense,Food,2026-03-03,Food,expense,Credit Card
+1,1,3,227,expense,Food,2026-03-04,Food,expense,UPI
+1,3,4,201,expense,Transport,2026-03-04,Transport,expense,Credit Card
+2,11,8,215,expense,Food,2026-03-04,Food,expense,Credit Card
+3,21,11,349,expense,Food,2026-03-04,Food,expense,UPI
+1,2,2,8000,expense,Rent,2026-03-05,Rent,expense,Bank
+1,1,4,374,expense,Food,2026-03-05,Food,expense,Credit Card
+2,12,6,8000,expense,Rent,2026-03-05,Rent,expense,Bank
+2,11,7,219,expense,Food,2026-03-05,Food,expense,UPI
+2,13,5,187,expense,Transport,2026-03-05,Transport,expense,Cash
+3,22,10,8000,expense,Rent,2026-03-05,Rent,expense,Bank
+3,21,11,438,expense,Food,2026-03-05,Food,expense,UPI
+1,1,3,326,expense,Food,2026-03-06,Food,expense,UPI
+1,3,1,182,expense,Transport,2026-03-06,Transport,expense,Cash
+2,11,8,119,expense,Food,2026-03-06,Food,expense,Credit Card
+2,13,7,232,expense,Transport,2026-03-06,Transport,expense,UPI
+3,21,11,331,expense,Food,2026-03-06,Food,expense,UPI
+1,1,2,112,expense,Food,2026-03-07,Food,expense,Bank
+2,11,7,209,expense,Food,2026-03-07,Food,expense,UPI
+2,13,8,152,expense,Transport,2026-03-07,Transport,expense,Credit Card
+2,14,7,2219,expense,Shopping,2026-03-07,Shopping,expense,UPI
+2,15,7,265,expense,Entertainment,2026-03-07,Entertainment,expense,UPI
+1,1,3,375,expense,Food,2026-03-08,Food,expense,UPI
+2,11,8,246,expense,Food,2026-03-08,Food,expense,Credit Card
+2,13,7,88,expense,Transport,2026-03-08,Transport,expense,UPI
+3,21,12,279,expense,Food,2026-03-08,Food,expense,Credit Card
+3,23,11,61,expense,Transport,2026-03-08,Transport,expense,UPI
+1,1,3,225,expense,Food,2026-03-09,Food,expense,UPI
+1,3,3,154,expense,Transport,2026-03-09,Transport,expense,UPI
+3,21,11,132,expense,Food,2026-03-09,Food,expense,UPI
+3,23,9,185,expense,Transport,2026-03-09,Transport,expense,Cash
+1,6,2,1377,expense,Bills,2026-03-10,Bills,expense,Bank
+1,1,3,132,expense,Food,2026-03-10,Food,expense,UPI
+1,3,3,44,expense,Transport,2026-03-10,Transport,expense,UPI
+1,5,3,1006,expense,Entertainment,2026-03-10,Entertainment,expense,UPI
+2,16,6,1717,expense,Bills,2026-03-10,Bills,expense,Bank
+2,11,7,262,expense,Food,2026-03-10,Food,expense,UPI
+3,26,10,1425,expense,Bills,2026-03-10,Bills,expense,Bank
+3,21,11,279,expense,Food,2026-03-10,Food,expense,UPI
+3,23,11,230,expense,Transport,2026-03-10,Transport,expense,UPI
+1,1,4,385,expense,Food,2026-03-11,Food,expense,Credit Card
+1,3,4,41,expense,Transport,2026-03-11,Transport,expense,Credit Card
+2,11,8,358,expense,Food,2026-03-11,Food,expense,Credit Card
+2,13,6,151,expense,Transport,2026-03-11,Transport,expense,Bank
+1,1,4,314,expense,Food,2026-03-12,Food,expense,Credit Card
+1,3,3,86,expense,Transport,2026-03-12,Transport,expense,UPI
+1,5,3,445,expense,Entertainment,2026-03-12,Entertainment,expense,UPI
+2,11,8,187,expense,Food,2026-03-12,Food,expense,Credit Card
+2,13,8,296,expense,Transport,2026-03-12,Transport,expense,Credit Card
+2,15,6,975,expense,Entertainment,2026-03-12,Entertainment,expense,Bank
+1,1,4,362,expense,Food,2026-03-13,Food,expense,Credit Card
+2,11,7,314,expense,Food,2026-03-13,Food,expense,UPI
+2,14,7,1051,expense,Shopping,2026-03-13,Shopping,expense,UPI
+3,23,11,239,expense,Transport,2026-03-13,Transport,expense,UPI
+1,1,3,103,expense,Food,2026-03-14,Food,expense,UPI
+2,11,8,205,expense,Food,2026-03-14,Food,expense,Credit Card
+3,21,11,117,expense,Food,2026-03-14,Food,expense,UPI
+1,8,3,1500,expense,Education,2026-03-15,Education,expense,UPI
+1,1,3,434,expense,Food,2026-03-15,Food,expense,UPI
+1,3,1,66,expense,Transport,2026-03-15,Transport,expense,Cash
+2,18,7,1500,expense,Education,2026-03-15,Education,expense,UPI
+2,11,5,173,expense,Food,2026-03-15,Food,expense,Cash
+2,13,6,75,expense,Transport,2026-03-15,Transport,expense,Bank
+3,28,11,1500,expense,Education,2026-03-15,Education,expense,UPI
+3,21,9,340,expense,Food,2026-03-15,Food,expense,Cash
+3,23,11,66,expense,Transport,2026-03-15,Transport,expense,UPI
+3,27,9,2079,expense,Health,2026-03-15,Health,expense,Cash
+1,3,3,49,expense,Transport,2026-03-16,Transport,expense,UPI
+2,11,8,131,expense,Food,2026-03-16,Food,expense,Credit Card
+3,21,11,83,expense,Food,2026-03-16,Food,expense,UPI
+1,1,3,334,expense,Food,2026-03-17,Food,expense,UPI
+1,4,3,2332,expense,Shopping,2026-03-17,Shopping,expense,UPI
+2,13,7,105,expense,Transport,2026-03-17,Transport,expense,UPI
+2,14,5,1920,expense,Shopping,2026-03-17,Shopping,expense,Cash
+3,21,12,324,expense,Food,2026-03-17,Food,expense,Credit Card
+3,23,11,168,expense,Transport,2026-03-17,Transport,expense,UPI
+2,11,7,442,expense,Food,2026-03-18,Food,expense,UPI
+3,21,11,333,expense,Food,2026-03-18,Food,expense,UPI
+3,27,11,803,expense,Health,2026-03-18,Health,expense,UPI
+1,1,3,372,expense,Food,2026-03-19,Food,expense,UPI
+2,11,7,279,expense,Food,2026-03-19,Food,expense,UPI
+3,21,12,278,expense,Food,2026-03-19,Food,expense,Credit Card
+3,23,9,255,expense,Transport,2026-03-19,Transport,expense,Cash
+3,25,9,916,expense,Entertainment,2026-03-19,Entertainment,expense,Cash
+1,10,2,3706,income,Freelance,2026-03-20,Freelance,income,Bank
+1,3,1,45,expense,Transport,2026-03-20,Transport,expense,Cash
+2,20,6,4124,income,Freelance,2026-03-20,Freelance,income,Bank
+2,11,7,433,expense,Food,2026-03-20,Food,expense,UPI
+3,30,10,5201,income,Freelance,2026-03-20,Freelance,income,Bank
+3,21,11,413,expense,Food,2026-03-20,Food,expense,UPI
+3,23,11,171,expense,Transport,2026-03-20,Transport,expense,UPI
+1,1,3,101,expense,Food,2026-03-21,Food,expense,UPI
+2,14,8,307,expense,Shopping,2026-03-21,Shopping,expense,Credit Card
+2,17,7,1037,expense,Health,2026-03-21,Health,expense,UPI
+3,23,10,40,expense,Transport,2026-03-21,Transport,expense,Bank
+1,1,3,419,expense,Food,2026-03-22,Food,expense,UPI
+1,3,4,184,expense,Transport,2026-03-22,Transport,expense,Credit Card
+1,4,1,442,expense,Shopping,2026-03-22,Shopping,expense,Cash
+2,11,7,404,expense,Food,2026-03-22,Food,expense,UPI
+3,21,11,188,expense,Food,2026-03-22,Food,expense,UPI
+2,11,7,425,expense,Food,2026-03-23,Food,expense,UPI
+2,13,7,202,expense,Transport,2026-03-23,Transport,expense,UPI
+2,15,7,947,expense,Entertainment,2026-03-23,Entertainment,expense,UPI
+3,21,11,156,expense,Food,2026-03-23,Food,expense,UPI
+1,1,3,96,expense,Food,2026-03-24,Food,expense,UPI
+1,3,4,142,expense,Transport,2026-03-24,Transport,expense,Credit Card
+2,11,7,316,expense,Food,2026-03-24,Food,expense,UPI
+2,13,5,47,expense,Transport,2026-03-24,Transport,expense,Cash
+1,1,3,429,expense,Food,2026-03-25,Food,expense,UPI
+1,3,4,59,expense,Transport,2026-03-25,Transport,expense,Credit Card
+1,4,3,1148,expense,Shopping,2026-03-25,Shopping,expense,UPI
+2,11,7,251,expense,Food,2026-03-25,Food,expense,UPI
+2,14,8,1121,expense,Shopping,2026-03-25,Shopping,expense,Credit Card
+3,21,12,135,expense,Food,2026-03-25,Food,expense,Credit Card
+1,1,4,144,expense,Food,2026-03-26,Food,expense,Credit Card
+2,11,7,374,expense,Food,2026-03-26,Food,expense,UPI
+2,13,7,241,expense,Transport,2026-03-26,Transport,expense,UPI
+3,21,10,111,expense,Food,2026-03-26,Food,expense,Bank
+3,25,10,358,expense,Entertainment,2026-03-26,Entertainment,expense,Bank
+1,3,4,248,expense,Transport,2026-03-27,Transport,expense,Credit Card
+2,13,8,164,expense,Transport,2026-03-27,Transport,expense,Credit Card
+3,23,11,70,expense,Transport,2026-03-27,Transport,expense,UPI
+1,1,4,257,expense,Food,2026-03-28,Food,expense,Credit Card
+1,3,3,143,expense,Transport,2026-03-28,Transport,expense,UPI
+2,14,7,2226,expense,Shopping,2026-03-28,Shopping,expense,UPI
+3,21,9,199,expense,Food,2026-03-28,Food,expense,Cash
+3,23,11,191,expense,Transport,2026-03-28,Transport,expense,UPI
+3,24,12,1059,expense,Shopping,2026-03-28,Shopping,expense,Credit Card
+1,1,1,166,expense,Food,2026-03-29,Food,expense,Cash
+1,3,3,95,expense,Transport,2026-03-29,Transport,expense,UPI
+2,11,6,293,expense,Food,2026-03-29,Food,expense,Bank
+3,21,11,198,expense,Food,2026-03-29,Food,expense,UPI
+1,1,1,133,expense,Food,2026-03-30,Food,expense,Cash
+2,11,7,94,expense,Food,2026-03-30,Food,expense,UPI
+2,13,5,35,expense,Transport,2026-03-30,Transport,expense,Cash
+3,23,11,247,expense,Transport,2026-03-30,Transport,expense,UPI
+3,25,11,890,expense,Entertainment,2026-03-30,Entertainment,expense,UPI
+1,1,3,215,expense,Food,2026-03-31,Food,expense,UPI
+1,3,4,209,expense,Transport,2026-03-31,Transport,expense,Credit Card
+3,21,12,288,expense,Food,2026-03-31,Food,expense,Credit Card
+1,9,2,30000,income,Salary,2026-04-01,Salary,income,Bank
+1,3,4,110,expense,Transport,2026-04-01,Transport,expense,Credit Card
+1,5,4,751,expense,Entertainment,2026-04-01,Entertainment,expense,Credit Card
+2,19,6,35000,income,Salary,2026-04-01,Salary,income,Bank
+2,11,5,147,expense,Food,2026-04-01,Food,expense,Cash
+2,13,8,195,expense,Transport,2026-04-01,Transport,expense,Credit Card
+3,29,10,40000,income,Salary,2026-04-01,Salary,income,Bank
+3,21,11,208,expense,Food,2026-04-01,Food,expense,UPI
+3,23,9,290,expense,Transport,2026-04-01,Transport,expense,Cash
+1,1,3,1264,expense,Food,2026-04-02,Food,expense,UPI
+2,11,7,235,expense,Food,2026-04-02,Food,expense,UPI
+2,13,7,268,expense,Transport,2026-04-02,Transport,expense,UPI
+3,21,9,361,expense,Food,2026-04-02,Food,expense,Cash
+3,23,11,246,expense,Transport,2026-04-02,Transport,expense,UPI
+3,24,11,1005,expense,Shopping,2026-04-02,Shopping,expense,UPI
+1,3,3,284,expense,Transport,2026-04-03,Transport,expense,UPI
+3,21,11,203,expense,Food,2026-04-03,Food,expense,UPI
+1,1,1,190,expense,Food,2026-04-04,Food,expense,Cash
+1,3,3,178,expense,Transport,2026-04-04,Transport,expense,UPI
+1,5,3,242,expense,Entertainment,2026-04-04,Entertainment,expense,UPI
+2,11,7,116,expense,Food,2026-04-04,Food,expense,UPI
+2,13,5,294,expense,Transport,2026-04-04,Transport,expense,Cash
+3,21,12,178,expense,Food,2026-04-04,Food,expense,Credit Card
+1,2,2,8000,expense,Rent,2026-04-05,Rent,expense,Bank
+1,1,3,243,expense,Food,2026-04-05,Food,expense,UPI
+1,3,4,182,expense,Transport,2026-04-05,Transport,expense,Credit Card
+2,12,6,8000,expense,Rent,2026-04-05,Rent,expense,Bank
+2,11,8,233,expense,Food,2026-04-05,Food,expense,Credit Card
+2,15,7,699,expense,Entertainment,2026-04-05,Entertainment,expense,UPI
+3,22,10,8000,expense,Rent,2026-04-05,Rent,expense,Bank
+3,21,10,292,expense,Food,2026-04-05,Food,expense,Bank
+3,23,11,137,expense,Transport,2026-04-05,Transport,expense,UPI
+3,25,9,693,expense,Entertainment,2026-04-05,Entertainment,expense,Cash
+1,3,2,151,expense,Transport,2026-04-06,Transport,expense,Bank
+2,11,7,109,expense,Food,2026-04-06,Food,expense,UPI
+3,21,11,349,expense,Food,2026-04-06,Food,expense,UPI
+3,24,9,1791,expense,Shopping,2026-04-06,Shopping,expense,Cash
+1,3,4,189,expense,Transport,2026-04-07,Transport,expense,Credit Card
+2,11,5,437,expense,Food,2026-04-07,Food,expense,Cash
+2,13,7,240,expense,Transport,2026-04-07,Transport,expense,UPI
+3,23,9,184,expense,Transport,2026-04-07,Transport,expense,Cash
+1,1,1,229,expense,Food,2026-04-08,Food,expense,Cash
+1,3,4,216,expense,Transport,2026-04-08,Transport,expense,Credit Card
+1,4,3,1025,expense,Shopping,2026-04-08,Shopping,expense,UPI
+2,11,7,392,expense,Food,2026-04-08,Food,expense,UPI
+3,21,12,366,expense,Food,2026-04-08,Food,expense,Credit Card
+3,23,12,193,expense,Transport,2026-04-08,Transport,expense,Credit Card
+3,24,11,2766,expense,Shopping,2026-04-08,Shopping,expense,UPI
+1,1,3,101,expense,Food,2026-04-09,Food,expense,UPI
+1,4,4,1389,expense,Shopping,2026-04-09,Shopping,expense,Credit Card
+2,11,7,404,expense,Food,2026-04-09,Food,expense,UPI
+2,13,7,39,expense,Transport,2026-04-09,Transport,expense,UPI
+2,14,7,838,expense,Shopping,2026-04-09,Shopping,expense,UPI
+3,21,10,332,expense,Food,2026-04-09,Food,expense,Bank
+3,23,11,150,expense,Transport,2026-04-09,Transport,expense,UPI
+1,6,2,1552,expense,Bills,2026-04-10,Bills,expense,Bank
+1,1,4,357,expense,Food,2026-04-10,Food,expense,Credit Card
+2,16,6,1785,expense,Bills,2026-04-10,Bills,expense,Bank
+2,11,7,162,expense,Food,2026-04-10,Food,expense,UPI
+2,13,7,206,expense,Transport,2026-04-10,Transport,expense,UPI
+3,26,10,1209,expense,Bills,2026-04-10,Bills,expense,Bank
+3,21,11,144,expense,Food,2026-04-10,Food,expense,UPI
+1,1,4,182,expense,Food,2026-04-11,Food,expense,Credit Card
+2,11,7,311,expense,Food,2026-04-11,Food,expense,UPI
+2,14,6,2910,expense,Shopping,2026-04-11,Shopping,expense,Bank
+3,21,11,333,expense,Food,2026-04-11,Food,expense,UPI
+3,23,11,105,expense,Transport,2026-04-11,Transport,expense,UPI
+2,11,8,380,expense,Food,2026-04-12,Food,expense,Credit Card
+2,13,7,68,expense,Transport,2026-04-12,Transport,expense,UPI
+2,14,7,1098,expense,Shopping,2026-04-12,Shopping,expense,UPI
+3,21,9,448,expense,Food,2026-04-12,Food,expense,Cash
+1,1,3,428,expense,Food,2026-04-13,Food,expense,UPI
+1,3,3,76,expense,Transport,2026-04-13,Transport,expense,UPI
+2,11,8,348,expense,Food,2026-04-13,Food,expense,Credit Card
+3,21,11,163,expense,Food,2026-04-13,Food,expense,UPI
+1,1,3,124,expense,Food,2026-04-14,Food,expense,UPI
+1,3,1,187,expense,Transport,2026-04-14,Transport,expense,Cash
+2,11,5,276,expense,Food,2026-04-14,Food,expense,Cash
+2,13,8,71,expense,Transport,2026-04-14,Transport,expense,Credit Card
+1,8,3,1500,expense,Education,2026-04-15,Education,expense,UPI
+1,1,3,445,expense,Food,2026-04-15,Food,expense,UPI
+1,3,3,152,expense,Transport,2026-04-15,Transport,expense,UPI
+2,18,7,1500,expense,Education,2026-04-15,Education,expense,UPI
+2,11,8,369,expense,Food,2026-04-15,Food,expense,Credit Card
+2,13,7,146,expense,Transport,2026-04-15,Transport,expense,UPI
+2,17,7,1881,expense,Health,2026-04-15,Health,expense,UPI
+3,28,11,1500,expense,Education,2026-04-15,Education,expense,UPI
+3,27,11,1887,expense,Health,2026-04-15,Health,expense,UPI
+1,1,4,195,expense,Food,2026-04-16,Food,expense,Credit Card
+1,3,3,113,expense,Transport,2026-04-16,Transport,expense,UPI
+1,4,3,2861,expense,Shopping,2026-04-16,Shopping,expense,UPI
+2,11,7,334,expense,Food,2026-04-16,Food,expense,UPI
+2,13,6,162,expense,Transport,2026-04-16,Transport,expense,Bank
+3,23,11,296,expense,Transport,2026-04-16,Transport,expense,UPI
+3,25,11,279,expense,Entertainment,2026-04-16,Entertainment,expense,UPI
+1,1,3,317,expense,Food,2026-04-17,Food,expense,UPI
+2,11,8,98,expense,Food,2026-04-17,Food,expense,Credit Card
+2,13,7,63,expense,Transport,2026-04-17,Transport,expense,UPI
+3,21,11,236,expense,Food,2026-04-17,Food,expense,UPI
+3,23,11,198,expense,Transport,2026-04-17,Transport,expense,UPI
+1,1,1,185,expense,Food,2026-04-18,Food,expense,Cash
+3,21,10,335,expense,Food,2026-04-18,Food,expense,Bank
+3,23,11,33,expense,Transport,2026-04-18,Transport,expense,UPI
+3,24,11,1850,expense,Shopping,2026-04-18,Shopping,expense,UPI
+1,1,3,348,expense,Food,2026-04-19,Food,expense,UPI
+2,11,7,381,expense,Food,2026-04-19,Food,expense,UPI
+3,21,11,395,expense,Food,2026-04-19,Food,expense,UPI
+3,24,11,2047,expense,Shopping,2026-04-19,Shopping,expense,UPI
+1,1,4,218,expense,Food,2026-04-20,Food,expense,Credit Card
+1,3,3,138,expense,Transport,2026-04-20,Transport,expense,UPI
+2,11,8,142,expense,Food,2026-04-20,Food,expense,Credit Card
+2,13,8,295,expense,Transport,2026-04-20,Transport,expense,Credit Card
+3,21,11,306,expense,Food,2026-04-20,Food,expense,UPI
+1,1,4,259,expense,Food,2026-04-21,Food,expense,Credit Card
+1,3,4,149,expense,Transport,2026-04-21,Transport,expense,Credit Card
+1,4,1,333,expense,Shopping,2026-04-21,Shopping,expense,Cash
+2,11,8,163,expense,Food,2026-04-21,Food,expense,Credit Card
+3,21,11,349,expense,Food,2026-04-21,Food,expense,UPI
+3,23,9,203,expense,Transport,2026-04-21,Transport,expense,Cash
+1,1,3,426,expense,Food,2026-04-22,Food,expense,UPI
+2,11,7,202,expense,Food,2026-04-22,Food,expense,UPI
+2,13,7,179,expense,Transport,2026-04-22,Transport,expense,UPI
+3,21,9,113,expense,Food,2026-04-22,Food,expense,Cash
+3,23,11,295,expense,Transport,2026-04-22,Transport,expense,UPI
+3,25,11,188,expense,Entertainment,2026-04-22,Entertainment,expense,UPI
+2,11,5,249,expense,Food,2026-04-23,Food,expense,Cash
+2,13,8,250,expense,Transport,2026-04-23,Transport,expense,Credit Card
+3,21,12,214,expense,Food,2026-04-23,Food,expense,Credit Card
+3,23,11,208,expense,Transport,2026-04-23,Transport,expense,UPI
+3,24,11,2011,expense,Shopping,2026-04-23,Shopping,expense,UPI
+1,1,3,412,expense,Food,2026-04-24,Food,expense,UPI
+1,3,4,230,expense,Transport,2026-04-24,Transport,expense,Credit Card
+2,11,8,160,expense,Food,2026-04-24,Food,expense,Credit Card
+3,21,9,329,expense,Food,2026-04-24,Food,expense,Cash
+3,23,12,153,expense,Transport,2026-04-24,Transport,expense,Credit Card
+1,1,4,285,expense,Food,2026-04-25,Food,expense,Credit Card
+1,3,1,280,expense,Transport,2026-04-25,Transport,expense,Cash
+2,11,8,118,expense,Food,2026-04-25,Food,expense,Credit Card
+3,21,9,336,expense,Food,2026-04-25,Food,expense,Cash
+3,23,11,123,expense,Transport,2026-04-25,Transport,expense,UPI
+1,1,4,270,expense,Food,2026-04-26,Food,expense,Credit Card
+2,11,7,158,expense,Food,2026-04-26,Food,expense,UPI
+3,21,10,146,expense,Food,2026-04-26,Food,expense,Bank
+1,1,1,429,expense,Food,2026-04-27,Food,expense,Cash
+2,13,7,59,expense,Transport,2026-04-27,Transport,expense,UPI
+2,15,7,430,expense,Entertainment,2026-04-27,Entertainment,expense,UPI
+3,25,12,364,expense,Entertainment,2026-04-27,Entertainment,expense,Credit Card
+1,1,3,308,expense,Food,2026-04-28,Food,expense,UPI
+2,11,7,375,expense,Food,2026-04-28,Food,expense,UPI
+2,15,7,587,expense,Entertainment,2026-04-28,Entertainment,expense,UPI
+3,21,10,100,expense,Food,2026-04-28,Food,expense,Bank
+1,1,3,315,expense,Food,2026-04-29,Food,expense,UPI
+2,11,8,152,expense,Food,2026-04-29,Food,expense,Credit Card
+2,13,6,50,expense,Transport,2026-04-29,Transport,expense,Bank
+3,21,11,178,expense,Food,2026-04-29,Food,expense,UPI
+3,23,12,32,expense,Transport,2026-04-29,Transport,expense,Credit Card
+2,11,8,284,expense,Food,2026-04-30,Food,expense,Credit Card
+2,13,8,172,expense,Transport,2026-04-30,Transport,expense,Credit Card
+3,21,11,229,expense,Food,2026-04-30,Food,expense,UPI
+3,23,12,209,expense,Transport,2026-04-30,Transport,expense,Credit Card
+1,9,2,30000,income,Salary,2026-05-01,Salary,income,Bank
+1,1,3,288,expense,Food,2026-05-01,Food,expense,UPI
+2,19,6,35000,income,Salary,2026-05-01,Salary,income,Bank
+2,11,5,420,expense,Food,2026-05-01,Food,expense,Cash
+2,13,7,269,expense,Transport,2026-05-01,Transport,expense,UPI
+3,29,10,40000,income,Salary,2026-05-01,Salary,income,Bank
+3,21,12,89,expense,Food,2026-05-01,Food,expense,Credit Card
+1,1,3,321,expense,Food,2026-05-02,Food,expense,UPI
+1,3,3,56,expense,Transport,2026-05-02,Transport,expense,UPI
+2,11,7,313,expense,Food,2026-05-02,Food,expense,UPI
+2,13,5,256,expense,Transport,2026-05-02,Transport,expense,Cash
+3,21,11,382,expense,Food,2026-05-02,Food,expense,UPI
+3,23,9,288,expense,Transport,2026-05-02,Transport,expense,Cash
+3,25,11,337,expense,Entertainment,2026-05-02,Entertainment,expense,UPI
+1,1,4,417,expense,Food,2026-05-03,Food,expense,Credit Card
+1,3,3,139,expense,Transport,2026-05-03,Transport,expense,UPI
+2,11,8,103,expense,Food,2026-05-03,Food,expense,Credit Card
+2,14,8,1266,expense,Shopping,2026-05-03,Shopping,expense,Credit Card
+3,21,9,184,expense,Food,2026-05-03,Food,expense,Cash
+1,1,3,356,expense,Food,2026-05-04,Food,expense,UPI
+2,11,8,437,expense,Food,2026-05-04,Food,expense,Credit Card
+2,17,8,525,expense,Health,2026-05-04,Health,expense,Credit Card
+3,21,9,226,expense,Food,2026-05-04,Food,expense,Cash
+3,24,11,2302,expense,Shopping,2026-05-04,Shopping,expense,UPI
+1,2,2,8000,expense,Rent,2026-05-05,Rent,expense,Bank
+2,12,6,8000,expense,Rent,2026-05-05,Rent,expense,Bank
+2,11,7,328,expense,Food,2026-05-05,Food,expense,UPI
+2,14,8,2973,expense,Shopping,2026-05-05,Shopping,expense,Credit Card
+3,22,10,8000,expense,Rent,2026-05-05,Rent,expense,Bank
+3,21,9,173,expense,Food,2026-05-05,Food,expense,Cash
+3,23,9,287,expense,Transport,2026-05-05,Transport,expense,Cash
+1,1,3,152,expense,Food,2026-05-06,Food,expense,UPI
+1,3,3,208,expense,Transport,2026-05-06,Transport,expense,UPI
+3,21,9,182,expense,Food,2026-05-06,Food,expense,Cash
+3,23,9,120,expense,Transport,2026-05-06,Transport,expense,Cash
+1,1,3,319,expense,Food,2026-05-07,Food,expense,UPI
+1,3,3,253,expense,Transport,2026-05-07,Transport,expense,UPI
+2,11,8,410,expense,Food,2026-05-07,Food,expense,Credit Card
+3,21,11,94,expense,Food,2026-05-07,Food,expense,UPI
+3,23,12,176,expense,Transport,2026-05-07,Transport,expense,Credit Card
+2,11,7,84,expense,Food,2026-05-08,Food,expense,UPI
+2,13,6,295,expense,Transport,2026-05-08,Transport,expense,Bank
+3,21,9,289,expense,Food,2026-05-08,Food,expense,Cash
+1,1,4,166,expense,Food,2026-05-09,Food,expense,Credit Card
+1,3,3,211,expense,Transport,2026-05-09,Transport,expense,UPI
+2,14,5,579,expense,Shopping,2026-05-09,Shopping,expense,Cash
+3,21,12,294,expense,Food,2026-05-09,Food,expense,Credit Card
+1,6,2,1279,expense,Bills,2026-05-10,Bills,expense,Bank
+1,1,3,416,expense,Food,2026-05-10,Food,expense,UPI
+2,16,6,1693,expense,Bills,2026-05-10,Bills,expense,Bank
+2,13,8,149,expense,Transport,2026-05-10,Transport,expense,Credit Card
+3,26,10,1353,expense,Bills,2026-05-10,Bills,expense,Bank
+3,21,11,345,expense,Food,2026-05-10,Food,expense,UPI
+3,23,11,249,expense,Transport,2026-05-10,Transport,expense,UPI
+1,1,3,388,expense,Food,2026-05-11,Food,expense,UPI
+1,3,3,185,expense,Transport,2026-05-11,Transport,expense,UPI
+2,11,7,176,expense,Food,2026-05-11,Food,expense,UPI
+2,13,6,192,expense,Transport,2026-05-11,Transport,expense,Bank
+2,15,8,845,expense,Entertainment,2026-05-11,Entertainment,expense,Credit Card
+3,21,11,447,expense,Food,2026-05-11,Food,expense,UPI
+1,1,4,147,expense,Food,2026-05-12,Food,expense,Credit Card
+2,11,5,165,expense,Food,2026-05-12,Food,expense,Cash
+2,13,7,85,expense,Transport,2026-05-12,Transport,expense,UPI
+3,21,11,256,expense,Food,2026-05-12,Food,expense,UPI
+3,24,12,1659,expense,Shopping,2026-05-12,Shopping,expense,Credit Card
+1,1,1,386,expense,Food,2026-05-13,Food,expense,Cash
+2,11,7,276,expense,Food,2026-05-13,Food,expense,UPI
+2,13,8,243,expense,Transport,2026-05-13,Transport,expense,Credit Card
+3,21,9,116,expense,Food,2026-05-13,Food,expense,Cash
+3,23,11,93,expense,Transport,2026-05-13,Transport,expense,UPI
+1,1,3,342,expense,Food,2026-05-14,Food,expense,UPI
+1,7,1,1782,expense,Health,2026-05-14,Health,expense,Cash
+2,11,7,137,expense,Food,2026-05-14,Food,expense,UPI
+3,21,11,332,expense,Food,2026-05-14,Food,expense,UPI
+1,8,3,1500,expense,Education,2026-05-15,Education,expense,UPI
+1,1,1,174,expense,Food,2026-05-15,Food,expense,Cash
+1,3,3,220,expense,Transport,2026-05-15,Transport,expense,UPI
+2,18,7,1500,expense,Education,2026-05-15,Education,expense,UPI
+2,11,7,339,expense,Food,2026-05-15,Food,expense,UPI
+2,13,7,138,expense,Transport,2026-05-15,Transport,expense,UPI
+3,28,11,1500,expense,Education,2026-05-15,Education,expense,UPI
+3,21,11,437,expense,Food,2026-05-15,Food,expense,UPI
+3,23,11,69,expense,Transport,2026-05-15,Transport,expense,UPI
+1,1,3,94,expense,Food,2026-05-16,Food,expense,UPI
+1,3,2,196,expense,Transport,2026-05-16,Transport,expense,Bank
+3,21,12,186,expense,Food,2026-05-16,Food,expense,Credit Card
+3,23,9,169,expense,Transport,2026-05-16,Transport,expense,Cash
+1,1,3,138,expense,Food,2026-05-17,Food,expense,UPI
+2,11,7,353,expense,Food,2026-05-17,Food,expense,UPI
+2,13,7,107,expense,Transport,2026-05-17,Transport,expense,UPI
+3,23,9,83,expense,Transport,2026-05-17,Transport,expense,Cash
+1,1,3,107,expense,Food,2026-05-18,Food,expense,UPI
+1,3,2,1976,expense,Transport,2026-05-18,Transport,expense,Bank
+2,11,5,437,expense,Food,2026-05-18,Food,expense,Cash
+3,21,11,297,expense,Food,2026-05-18,Food,expense,UPI
+3,23,11,48,expense,Transport,2026-05-18,Transport,expense,UPI
+1,1,3,434,expense,Food,2026-05-19,Food,expense,UPI
+1,4,4,970,expense,Shopping,2026-05-19,Shopping,expense,Credit Card
+1,5,1,1012,expense,Entertainment,2026-05-19,Entertainment,expense,Cash
+2,13,7,271,expense,Transport,2026-05-19,Transport,expense,UPI
+3,23,11,229,expense,Transport,2026-05-19,Transport,expense,UPI
+1,10,2,8067,income,Freelance,2026-05-20,Freelance,income,Bank
+1,1,4,124,expense,Food,2026-05-20,Food,expense,Credit Card
+1,3,2,163,expense,Transport,2026-05-20,Transport,expense,Bank
+1,4,4,2887,expense,Shopping,2026-05-20,Shopping,expense,Credit Card
+2,20,6,7706,income,Freelance,2026-05-20,Freelance,income,Bank
+2,13,6,277,expense,Transport,2026-05-20,Transport,expense,Bank
+3,30,10,6466,income,Freelance,2026-05-20,Freelance,income,Bank
+3,21,11,266,expense,Food,2026-05-20,Food,expense,UPI
+3,23,9,77,expense,Transport,2026-05-20,Transport,expense,Cash
+1,1,3,158,expense,Food,2026-05-21,Food,expense,UPI
+2,11,7,2032,expense,Food,2026-05-21,Food,expense,UPI
+3,21,11,396,expense,Food,2026-05-21,Food,expense,UPI
+3,23,11,65,expense,Transport,2026-05-21,Transport,expense,UPI
+1,1,3,240,expense,Food,2026-05-22,Food,expense,UPI
+1,3,3,289,expense,Transport,2026-05-22,Transport,expense,UPI
+2,11,6,394,expense,Food,2026-05-22,Food,expense,Bank
+3,21,9,227,expense,Food,2026-05-22,Food,expense,Cash
+3,24,12,1587,expense,Shopping,2026-05-22,Shopping,expense,Credit Card
+1,1,3,287,expense,Food,2026-05-23,Food,expense,UPI
+1,5,3,1061,expense,Entertainment,2026-05-23,Entertainment,expense,UPI
+2,11,5,320,expense,Food,2026-05-23,Food,expense,Cash
+2,13,8,126,expense,Transport,2026-05-23,Transport,expense,Credit Card
+3,23,11,201,expense,Transport,2026-05-23,Transport,expense,UPI
+1,1,1,292,expense,Food,2026-05-24,Food,expense,Cash
+1,4,3,916,expense,Shopping,2026-05-24,Shopping,expense,UPI
+2,11,5,180,expense,Food,2026-05-24,Food,expense,Cash
+2,13,8,128,expense,Transport,2026-05-24,Transport,expense,Credit Card
+3,21,11,349,expense,Food,2026-05-24,Food,expense,UPI
+1,1,3,104,expense,Food,2026-05-25,Food,expense,UPI
+1,5,3,953,expense,Entertainment,2026-05-25,Entertainment,expense,UPI
+2,11,7,322,expense,Food,2026-05-25,Food,expense,UPI
+3,21,11,390,expense,Food,2026-05-25,Food,expense,UPI
+3,23,9,262,expense,Transport,2026-05-25,Transport,expense,Cash
+1,1,3,245,expense,Food,2026-05-26,Food,expense,UPI
+2,11,5,289,expense,Food,2026-05-26,Food,expense,Cash
+3,21,12,243,expense,Food,2026-05-26,Food,expense,Credit Card
+3,23,11,112,expense,Transport,2026-05-26,Transport,expense,UPI
+3,24,12,2589,expense,Shopping,2026-05-26,Shopping,expense,Credit Card
+1,1,2,430,expense,Food,2026-05-27,Food,expense,Bank
+1,3,3,146,expense,Transport,2026-05-27,Transport,expense,UPI
+1,7,3,1147,expense,Health,2026-05-27,Health,expense,UPI
+2,11,7,140,expense,Food,2026-05-27,Food,expense,UPI
+3,21,11,363,expense,Food,2026-05-27,Food,expense,UPI
+1,1,4,233,expense,Food,2026-05-28,Food,expense,Credit Card
+2,11,7,310,expense,Food,2026-05-28,Food,expense,UPI
+2,13,7,43,expense,Transport,2026-05-28,Transport,expense,UPI
+3,21,12,349,expense,Food,2026-05-28,Food,expense,Credit Card
+3,23,11,163,expense,Transport,2026-05-28,Transport,expense,UPI
+1,3,4,119,expense,Transport,2026-05-29,Transport,expense,Credit Card
+2,11,7,254,expense,Food,2026-05-29,Food,expense,UPI
+2,13,8,251,expense,Transport,2026-05-29,Transport,expense,Credit Card
+3,21,12,244,expense,Food,2026-05-29,Food,expense,Credit Card
+3,24,11,2382,expense,Shopping,2026-05-29,Shopping,expense,UPI
+1,1,1,195,expense,Food,2026-05-30,Food,expense,Cash
+1,3,1,41,expense,Transport,2026-05-30,Transport,expense,Cash
+2,11,7,408,expense,Food,2026-05-30,Food,expense,UPI
+3,21,11,182,expense,Food,2026-05-30,Food,expense,UPI
+3,23,12,32,expense,Transport,2026-05-30,Transport,expense,Credit Card
+3,24,12,1583,expense,Shopping,2026-05-30,Shopping,expense,Credit Card
+1,1,3,114,expense,Food,2026-05-31,Food,expense,UPI
+2,11,5,339,expense,Food,2026-05-31,Food,expense,Cash
+3,21,12,378,expense,Food,2026-05-31,Food,expense,Credit Card
+3,23,11,216,expense,Transport,2026-05-31,Transport,expense,UPI
+1,9,2,30000,income,Salary,2026-06-01,Salary,income,Bank
+1,1,3,189,expense,Food,2026-06-01,Food,expense,UPI
+2,19,6,35000,income,Salary,2026-06-01,Salary,income,Bank
+2,11,7,388,expense,Food,2026-06-01,Food,expense,UPI
+2,15,7,460,expense,Entertainment,2026-06-01,Entertainment,expense,UPI
+3,29,10,40000,income,Salary,2026-06-01,Salary,income,Bank
+3,21,11,316,expense,Food,2026-06-01,Food,expense,UPI
+3,23,11,35,expense,Transport,2026-06-01,Transport,expense,UPI
+1,1,1,279,expense,Food,2026-06-02,Food,expense,Cash
+1,3,3,164,expense,Transport,2026-06-02,Transport,expense,UPI
+2,11,7,274,expense,Food,2026-06-02,Food,expense,UPI
+2,13,8,65,expense,Transport,2026-06-02,Transport,expense,Credit Card
+3,21,9,389,expense,Food,2026-06-02,Food,expense,Cash
+1,1,1,106,expense,Food,2026-06-03,Food,expense,Cash
+2,11,8,102,expense,Food,2026-06-03,Food,expense,Credit Card
+3,21,12,178,expense,Food,2026-06-03,Food,expense,Credit Card
+3,23,11,112,expense,Transport,2026-06-03,Transport,expense,UPI
+1,1,3,150,expense,Food,2026-06-04,Food,expense,UPI
+2,11,7,119,expense,Food,2026-06-04,Food,expense,UPI
+3,23,11,138,expense,Transport,2026-06-04,Transport,expense,UPI
+1,2,2,8000,expense,Rent,2026-06-05,Rent,expense,Bank
+1,1,3,197,expense,Food,2026-06-05,Food,expense,UPI
+2,12,6,8000,expense,Rent,2026-06-05,Rent,expense,Bank
+2,11,8,305,expense,Food,2026-06-05,Food,expense,Credit Card
+3,22,10,8000,expense,Rent,2026-06-05,Rent,expense,Bank
+3,21,10,246,expense,Food,2026-06-05,Food,expense,Bank
+3,23,12,295,expense,Transport,2026-06-05,Transport,expense,Credit Card
+1,1,3,162,expense,Food,2026-06-06,Food,expense,UPI
+1,4,4,2162,expense,Shopping,2026-06-06,Shopping,expense,Credit Card
+2,11,6,137,expense,Food,2026-06-06,Food,expense,Bank
+2,13,7,67,expense,Transport,2026-06-06,Transport,expense,UPI
+3,23,11,278,expense,Transport,2026-06-06,Transport,expense,UPI
+1,1,4,335,expense,Food,2026-06-07,Food,expense,Credit Card
+2,11,5,109,expense,Food,2026-06-07,Food,expense,Cash
+2,13,8,124,expense,Transport,2026-06-07,Transport,expense,Credit Card
+3,23,9,193,expense,Transport,2026-06-07,Transport,expense,Cash
+3,24,12,1333,expense,Shopping,2026-06-07,Shopping,expense,Credit Card
+1,1,3,266,expense,Food,2026-06-08,Food,expense,UPI
+1,3,3,228,expense,Transport,2026-06-08,Transport,expense,UPI
+2,11,7,187,expense,Food,2026-06-08,Food,expense,UPI
+2,13,7,52,expense,Transport,2026-06-08,Transport,expense,UPI
+2,15,7,239,expense,Entertainment,2026-06-08,Entertainment,expense,UPI
+3,21,11,130,expense,Food,2026-06-08,Food,expense,UPI
+1,1,4,171,expense,Food,2026-06-09,Food,expense,Credit Card
+1,3,4,117,expense,Transport,2026-06-09,Transport,expense,Credit Card
+1,5,1,595,expense,Entertainment,2026-06-09,Entertainment,expense,Cash
+2,11,5,89,expense,Food,2026-06-09,Food,expense,Cash
+2,13,6,196,expense,Transport,2026-06-09,Transport,expense,Bank
+3,21,12,154,expense,Food,2026-06-09,Food,expense,Credit Card
+3,23,12,260,expense,Transport,2026-06-09,Transport,expense,Credit Card
+3,24,11,2862,expense,Shopping,2026-06-09,Shopping,expense,UPI
+1,6,2,1494,expense,Bills,2026-06-10,Bills,expense,Bank
+1,1,1,121,expense,Food,2026-06-10,Food,expense,Cash
+1,3,3,86,expense,Transport,2026-06-10,Transport,expense,UPI
+2,16,6,1464,expense,Bills,2026-06-10,Bills,expense,Bank
+2,11,5,447,expense,Food,2026-06-10,Food,expense,Cash
+3,26,10,1739,expense,Bills,2026-06-10,Bills,expense,Bank
+3,21,11,185,expense,Food,2026-06-10,Food,expense,UPI
+3,25,9,159,expense,Entertainment,2026-06-10,Entertainment,expense,Cash
+1,1,4,324,expense,Food,2026-06-11,Food,expense,Credit Card
+1,4,4,2053,expense,Shopping,2026-06-11,Shopping,expense,Credit Card
+2,13,7,264,expense,Transport,2026-06-11,Transport,expense,UPI
+3,21,10,88,expense,Food,2026-06-11,Food,expense,Bank
+3,23,11,120,expense,Transport,2026-06-11,Transport,expense,UPI
+1,1,1,167,expense,Food,2026-06-12,Food,expense,Cash
+2,15,5,444,expense,Entertainment,2026-06-12,Entertainment,expense,Cash
+3,24,11,2894,expense,Shopping,2026-06-12,Shopping,expense,UPI
+1,1,3,137,expense,Food,2026-06-13,Food,expense,UPI
+2,11,7,280,expense,Food,2026-06-13,Food,expense,UPI
+3,21,11,448,expense,Food,2026-06-13,Food,expense,UPI
+1,1,1,431,expense,Food,2026-06-14,Food,expense,Cash
+1,3,3,268,expense,Transport,2026-06-14,Transport,expense,UPI
+2,11,7,244,expense,Food,2026-06-14,Food,expense,UPI
+3,21,11,148,expense,Food,2026-06-14,Food,expense,UPI
+1,8,3,1500,expense,Education,2026-06-15,Education,expense,UPI
+1,1,3,334,expense,Food,2026-06-15,Food,expense,UPI
+1,3,1,159,expense,Transport,2026-06-15,Transport,expense,Cash
+2,18,7,1500,expense,Education,2026-06-15,Education,expense,UPI
+2,11,8,262,expense,Food,2026-06-15,Food,expense,Credit Card
+2,13,7,39,expense,Transport,2026-06-15,Transport,expense,UPI
+2,15,7,584,expense,Entertainment,2026-06-15,Entertainment,expense,UPI
+3,28,11,1500,expense,Education,2026-06-15,Education,expense,UPI
+3,24,10,2961,expense,Shopping,2026-06-15,Shopping,expense,Bank
+1,1,3,171,expense,Food,2026-06-16,Food,expense,UPI
+1,3,3,229,expense,Transport,2026-06-16,Transport,expense,UPI
+2,11,5,274,expense,Food,2026-06-16,Food,expense,Cash
+3,23,10,170,expense,Transport,2026-06-16,Transport,expense,Bank
+1,1,1,98,expense,Food,2026-06-17,Food,expense,Cash
+1,3,3,112,expense,Transport,2026-06-17,Transport,expense,UPI
+2,11,7,271,expense,Food,2026-06-17,Food,expense,UPI
+2,13,8,152,expense,Transport,2026-06-17,Transport,expense,Credit Card
+1,1,1,344,expense,Food,2026-06-18,Food,expense,Cash
+1,3,3,98,expense,Transport,2026-06-18,Transport,expense,UPI
+2,11,7,122,expense,Food,2026-06-18,Food,expense,UPI
+2,13,7,171,expense,Transport,2026-06-18,Transport,expense,UPI
+3,23,11,237,expense,Transport,2026-06-18,Transport,expense,UPI
+1,1,4,146,expense,Food,2026-06-19,Food,expense,Credit Card
+2,11,5,123,expense,Food,2026-06-19,Food,expense,Cash
+2,13,7,198,expense,Transport,2026-06-19,Transport,expense,UPI
+3,21,11,407,expense,Food,2026-06-19,Food,expense,UPI
+3,23,9,158,expense,Transport,2026-06-19,Transport,expense,Cash
+3,25,9,407,expense,Entertainment,2026-06-19,Entertainment,expense,Cash
+1,1,4,98,expense,Food,2026-06-20,Food,expense,Credit Card
+1,3,1,40,expense,Transport,2026-06-20,Transport,expense,Cash
+2,20,6,3718,income,Freelance,2026-06-20,Freelance,income,Bank
+2,11,7,146,expense,Food,2026-06-20,Food,expense,UPI
+3,21,11,294,expense,Food,2026-06-20,Food,expense,UPI
+3,24,11,1295,expense,Shopping,2026-06-20,Shopping,expense,UPI
+1,1,1,188,expense,Food,2026-06-21,Food,expense,Cash
+1,3,1,104,expense,Transport,2026-06-21,Transport,expense,Cash
+2,11,7,350,expense,Food,2026-06-21,Food,expense,UPI
+1,1,2,211,expense,Food,2026-06-22,Food,expense,Bank
+1,3,1,170,expense,Transport,2026-06-22,Transport,expense,Cash
+2,11,8,442,expense,Food,2026-06-22,Food,expense,Credit Card
+2,13,7,199,expense,Transport,2026-06-22,Transport,expense,UPI
+2,14,8,2459,expense,Shopping,2026-06-22,Shopping,expense,Credit Card
+3,21,9,2528,expense,Food,2026-06-22,Food,expense,Cash
+3,23,11,106,expense,Transport,2026-06-22,Transport,expense,UPI
+1,1,3,334,expense,Food,2026-06-23,Food,expense,UPI
+1,3,4,196,expense,Transport,2026-06-23,Transport,expense,Credit Card
+1,4,3,1192,expense,Shopping,2026-06-23,Shopping,expense,UPI
+1,1,4,191,expense,Food,2026-06-24,Food,expense,Credit Card
+2,11,8,409,expense,Food,2026-06-24,Food,expense,Credit Card
+2,13,6,106,expense,Transport,2026-06-24,Transport,expense,Bank
+2,14,6,1992,expense,Shopping,2026-06-24,Shopping,expense,Bank
+3,21,9,400,expense,Food,2026-06-24,Food,expense,Cash
+1,1,3,168,expense,Food,2026-06-25,Food,expense,UPI
+1,3,2,88,expense,Transport,2026-06-25,Transport,expense,Bank
+2,11,6,244,expense,Food,2026-06-25,Food,expense,Bank
+2,13,7,165,expense,Transport,2026-06-25,Transport,expense,UPI
+3,21,12,133,expense,Food,2026-06-25,Food,expense,Credit Card
+1,1,4,250,expense,Food,2026-06-26,Food,expense,Credit Card
+1,5,2,871,expense,Entertainment,2026-06-26,Entertainment,expense,Bank
+2,11,7,97,expense,Food,2026-06-26,Food,expense,UPI
+3,21,12,199,expense,Food,2026-06-26,Food,expense,Credit Card
+3,23,11,116,expense,Transport,2026-06-26,Transport,expense,UPI
+1,1,3,310,expense,Food,2026-06-27,Food,expense,UPI
+2,11,8,185,expense,Food,2026-06-27,Food,expense,Credit Card
+2,13,7,196,expense,Transport,2026-06-27,Transport,expense,UPI
+3,21,9,119,expense,Food,2026-06-27,Food,expense,Cash
+3,23,11,78,expense,Transport,2026-06-27,Transport,expense,UPI
+1,1,1,196,expense,Food,2026-06-28,Food,expense,Cash
+3,23,11,215,expense,Transport,2026-06-28,Transport,expense,UPI
+1,1,4,308,expense,Food,2026-06-29,Food,expense,Credit Card
+2,11,8,248,expense,Food,2026-06-29,Food,expense,Credit Card
+2,13,7,125,expense,Transport,2026-06-29,Transport,expense,UPI
+3,21,11,118,expense,Food,2026-06-29,Food,expense,UPI
+1,1,3,228,expense,Food,2026-06-30,Food,expense,UPI
+1,3,1,178,expense,Transport,2026-06-30,Transport,expense,Cash
+3,21,11,325,expense,Food,2026-06-30,Food,expense,UPI
+3,23,10,185,expense,Transport,2026-06-30,Transport,expense,Bank
+1,9,2,30000,income,Salary,2026-07-01,Salary,income,Bank
+1,1,4,145,expense,Food,2026-07-01,Food,expense,Credit Card
+1,4,3,2498,expense,Shopping,2026-07-01,Shopping,expense,UPI
+2,19,6,35000,income,Salary,2026-07-01,Salary,income,Bank
+2,11,5,113,expense,Food,2026-07-01,Food,expense,Cash
+3,29,10,40000,income,Salary,2026-07-01,Salary,income,Bank
+3,21,11,135,expense,Food,2026-07-01,Food,expense,UPI
+1,1,3,291,expense,Food,2026-07-02,Food,expense,UPI
+2,13,7,32,expense,Transport,2026-07-02,Transport,expense,UPI
+3,21,11,283,expense,Food,2026-07-02,Food,expense,UPI
+3,23,12,252,expense,Transport,2026-07-02,Transport,expense,Credit Card
+1,1,4,226,expense,Food,2026-07-03,Food,expense,Credit Card
+1,3,3,133,expense,Transport,2026-07-03,Transport,expense,UPI
+2,11,7,422,expense,Food,2026-07-03,Food,expense,UPI
+3,21,11,86,expense,Food,2026-07-03,Food,expense,UPI
+1,1,1,234,expense,Food,2026-07-04,Food,expense,Cash
+1,3,4,193,expense,Transport,2026-07-04,Transport,expense,Credit Card
+2,11,7,211,expense,Food,2026-07-04,Food,expense,UPI
+2,13,5,186,expense,Transport,2026-07-04,Transport,expense,Cash
+3,21,11,216,expense,Food,2026-07-04,Food,expense,UPI
+1,2,2,8000,expense,Rent,2026-07-05,Rent,expense,Bank
+1,1,1,133,expense,Food,2026-07-05,Food,expense,Cash
+2,12,6,8000,expense,Rent,2026-07-05,Rent,expense,Bank
+2,11,7,409,expense,Food,2026-07-05,Food,expense,UPI
+2,13,7,230,expense,Transport,2026-07-05,Transport,expense,UPI
+2,15,5,988,expense,Entertainment,2026-07-05,Entertainment,expense,Cash
+3,22,10,8000,expense,Rent,2026-07-05,Rent,expense,Bank
+3,21,11,368,expense,Food,2026-07-05,Food,expense,UPI
+3,23,11,157,expense,Transport,2026-07-05,Transport,expense,UPI
+1,1,3,93,expense,Food,2026-07-06,Food,expense,UPI
+2,11,7,143,expense,Food,2026-07-06,Food,expense,UPI
+2,13,6,248,expense,Transport,2026-07-06,Transport,expense,Bank
+3,21,12,183,expense,Food,2026-07-06,Food,expense,Credit Card
+3,23,11,262,expense,Transport,2026-07-06,Transport,expense,UPI
+3,24,11,771,expense,Shopping,2026-07-06,Shopping,expense,UPI
+1,1,4,177,expense,Food,2026-07-07,Food,expense,Credit Card
+2,11,7,134,expense,Food,2026-07-07,Food,expense,UPI
+3,21,11,243,expense,Food,2026-07-07,Food,expense,UPI
+1,1,4,123,expense,Food,2026-07-08,Food,expense,Credit Card
+1,3,3,111,expense,Transport,2026-07-08,Transport,expense,UPI
+2,11,8,256,expense,Food,2026-07-08,Food,expense,Credit Card
+2,13,8,33,expense,Transport,2026-07-08,Transport,expense,Credit Card
+3,24,10,2021,expense,Shopping,2026-07-08,Shopping,expense,Bank
+2,11,7,366,expense,Food,2026-07-09,Food,expense,UPI
+3,21,9,147,expense,Food,2026-07-09,Food,expense,Cash
+3,27,11,439,expense,Health,2026-07-09,Health,expense,UPI
+1,6,2,1656,expense,Bills,2026-07-10,Bills,expense,Bank
+1,1,4,173,expense,Food,2026-07-10,Food,expense,Credit Card
+1,3,1,45,expense,Transport,2026-07-10,Transport,expense,Cash
+2,16,6,1324,expense,Bills,2026-07-10,Bills,expense,Bank
+2,11,7,397,expense,Food,2026-07-10,Food,expense,UPI
+2,13,5,273,expense,Transport,2026-07-10,Transport,expense,Cash
+3,26,10,1388,expense,Bills,2026-07-10,Bills,expense,Bank
+3,21,11,426,expense,Food,2026-07-10,Food,expense,UPI
+2,11,7,203,expense,Food,2026-07-11,Food,expense,UPI
+2,13,6,101,expense,Transport,2026-07-11,Transport,expense,Bank
+3,21,11,262,expense,Food,2026-07-11,Food,expense,UPI
+3,23,12,89,expense,Transport,2026-07-11,Transport,expense,Credit Card
+1,1,3,291,expense,Food,2026-07-12,Food,expense,UPI
+1,3,3,272,expense,Transport,2026-07-12,Transport,expense,UPI
+2,11,7,339,expense,Food,2026-07-12,Food,expense,UPI
+3,21,11,392,expense,Food,2026-07-12,Food,expense,UPI
+3,27,10,2081,expense,Health,2026-07-12,Health,expense,Bank
+1,1,1,426,expense,Food,2026-07-13,Food,expense,Cash
+1,3,1,138,expense,Transport,2026-07-13,Transport,expense,Cash
+2,11,6,110,expense,Food,2026-07-13,Food,expense,Bank
+2,13,8,205,expense,Transport,2026-07-13,Transport,expense,Credit Card
+2,15,7,351,expense,Entertainment,2026-07-13,Entertainment,expense,UPI
+3,25,9,922,expense,Entertainment,2026-07-13,Entertainment,expense,Cash
+1,1,4,299,expense,Food,2026-07-14,Food,expense,Credit Card
+1,3,3,176,expense,Transport,2026-07-14,Transport,expense,UPI
+2,11,6,94,expense,Food,2026-07-14,Food,expense,Bank
+2,13,8,42,expense,Transport,2026-07-14,Transport,expense,Credit Card
+2,14,8,2102,expense,Shopping,2026-07-14,Shopping,expense,Credit Card
+3,23,9,280,expense,Transport,2026-07-14,Transport,expense,Cash
+3,24,11,2065,expense,Shopping,2026-07-14,Shopping,expense,UPI
+1,8,3,1500,expense,Education,2026-07-15,Education,expense,UPI
+1,1,4,128,expense,Food,2026-07-15,Food,expense,Credit Card
+1,3,3,113,expense,Transport,2026-07-15,Transport,expense,UPI
+2,18,7,1500,expense,Education,2026-07-15,Education,expense,UPI
+2,11,8,119,expense,Food,2026-07-15,Food,expense,Credit Card
+2,13,8,90,expense,Transport,2026-07-15,Transport,expense,Credit Card
+3,28,11,1500,expense,Education,2026-07-15,Education,expense,UPI
+1,1,4,373,expense,Food,2026-07-16,Food,expense,Credit Card
+2,11,7,338,expense,Food,2026-07-16,Food,expense,UPI
+3,21,12,307,expense,Food,2026-07-16,Food,expense,Credit Card
+3,24,11,317,expense,Shopping,2026-07-16,Shopping,expense,UPI
+1,1,4,234,expense,Food,2026-07-17,Food,expense,Credit Card
+2,11,7,232,expense,Food,2026-07-17,Food,expense,UPI
+2,15,7,675,expense,Entertainment,2026-07-17,Entertainment,expense,UPI
+3,21,12,209,expense,Food,2026-07-17,Food,expense,Credit Card
+3,23,11,62,expense,Transport,2026-07-17,Transport,expense,UPI
+3,25,11,949,expense,Entertainment,2026-07-17,Entertainment,expense,UPI
+1,1,4,324,expense,Food,2026-07-18,Food,expense,Credit Card
+1,3,3,245,expense,Transport,2026-07-18,Transport,expense,UPI
+2,11,5,96,expense,Food,2026-07-18,Food,expense,Cash
+3,24,12,2797,expense,Shopping,2026-07-18,Shopping,expense,Credit Card
+1,1,3,411,expense,Food,2026-07-19,Food,expense,UPI
+2,11,7,368,expense,Food,2026-07-19,Food,expense,UPI
+2,13,7,229,expense,Transport,2026-07-19,Transport,expense,UPI
+3,21,11,409,expense,Food,2026-07-19,Food,expense,UPI
+3,23,10,153,expense,Transport,2026-07-19,Transport,expense,Bank
+1,3,3,217,expense,Transport,2026-07-20,Transport,expense,UPI
+1,4,3,2599,expense,Shopping,2026-07-20,Shopping,expense,UPI
+2,20,6,5417,income,Freelance,2026-07-20,Freelance,income,Bank
+2,11,8,316,expense,Food,2026-07-20,Food,expense,Credit Card
+3,30,10,7274,income,Freelance,2026-07-20,Freelance,income,Bank
+3,21,10,299,expense,Food,2026-07-20,Food,expense,Bank
+1,1,3,294,expense,Food,2026-07-21,Food,expense,UPI
+2,11,6,95,expense,Food,2026-07-21,Food,expense,Bank
+2,13,8,39,expense,Transport,2026-07-21,Transport,expense,Credit Card
+3,23,11,181,expense,Transport,2026-07-21,Transport,expense,UPI
+3,24,12,2865,expense,Shopping,2026-07-21,Shopping,expense,Credit Card
+1,1,3,258,expense,Food,2026-07-22,Food,expense,UPI
+1,3,4,262,expense,Transport,2026-07-22,Transport,expense,Credit Card
+1,5,3,960,expense,Entertainment,2026-07-22,Entertainment,expense,UPI
+2,11,8,217,expense,Food,2026-07-22,Food,expense,Credit Card
+2,13,5,262,expense,Transport,2026-07-22,Transport,expense,Cash
+2,14,8,1199,expense,Shopping,2026-07-22,Shopping,expense,Credit Card
+2,15,7,433,expense,Entertainment,2026-07-22,Entertainment,expense,UPI
+3,21,12,371,expense,Food,2026-07-22,Food,expense,Credit Card
+3,23,12,229,expense,Transport,2026-07-22,Transport,expense,Credit Card
+3,24,10,2122,expense,Shopping,2026-07-22,Shopping,expense,Bank
+1,1,1,215,expense,Food,2026-07-23,Food,expense,Cash
+1,3,1,48,expense,Transport,2026-07-23,Transport,expense,Cash
+2,11,7,257,expense,Food,2026-07-23,Food,expense,UPI
+3,21,11,211,expense,Food,2026-07-23,Food,expense,UPI
+3,23,9,105,expense,Transport,2026-07-23,Transport,expense,Cash
+3,24,11,1613,expense,Shopping,2026-07-23,Shopping,expense,UPI
+1,1,1,277,expense,Food,2026-07-24,Food,expense,Cash
+1,3,1,246,expense,Transport,2026-07-24,Transport,expense,Cash
+2,11,8,249,expense,Food,2026-07-24,Food,expense,Credit Card
+2,13,8,108,expense,Transport,2026-07-24,Transport,expense,Credit Card
+3,21,11,404,expense,Food,2026-07-24,Food,expense,UPI
+1,1,3,208,expense,Food,2026-07-25,Food,expense,UPI
+1,3,1,109,expense,Transport,2026-07-25,Transport,expense,Cash
+1,4,4,927,expense,Shopping,2026-07-25,Shopping,expense,Credit Card
+2,11,7,319,expense,Food,2026-07-25,Food,expense,UPI
+2,13,5,1744,expense,Transport,2026-07-25,Transport,expense,Cash
+3,21,12,144,expense,Food,2026-07-25,Food,expense,Credit Card
+3,23,11,292,expense,Transport,2026-07-25,Transport,expense,UPI
+3,25,11,629,expense,Entertainment,2026-07-25,Entertainment,expense,UPI
+2,11,5,137,expense,Food,2026-07-26,Food,expense,Cash
+2,13,7,115,expense,Transport,2026-07-26,Transport,expense,UPI
+3,21,11,197,expense,Food,2026-07-26,Food,expense,UPI
+3,23,11,176,expense,Transport,2026-07-26,Transport,expense,UPI
+1,1,3,134,expense,Food,2026-07-27,Food,expense,UPI
+1,3,3,31,expense,Transport,2026-07-27,Transport,expense,UPI
+2,11,7,187,expense,Food,2026-07-27,Food,expense,UPI
+3,21,10,244,expense,Food,2026-07-27,Food,expense,Bank
+1,1,3,229,expense,Food,2026-07-28,Food,expense,UPI
+1,5,3,823,expense,Entertainment,2026-07-28,Entertainment,expense,UPI
+2,11,6,183,expense,Food,2026-07-28,Food,expense,Bank
+2,13,7,150,expense,Transport,2026-07-28,Transport,expense,UPI
+2,15,7,354,expense,Entertainment,2026-07-28,Entertainment,expense,UPI
+3,21,10,416,expense,Food,2026-07-28,Food,expense,Bank
+3,23,11,261,expense,Transport,2026-07-28,Transport,expense,UPI
+1,1,2,403,expense,Food,2026-07-29,Food,expense,Bank
+1,3,4,150,expense,Transport,2026-07-29,Transport,expense,Credit Card
+3,21,11,157,expense,Food,2026-07-29,Food,expense,UPI
+3,23,12,296,expense,Transport,2026-07-29,Transport,expense,Credit Card
+3,24,10,2342,expense,Shopping,2026-07-29,Shopping,expense,Bank
+3,25,11,1110,expense,Entertainment,2026-07-29,Entertainment,expense,UPI
+1,1,4,359,expense,Food,2026-07-30,Food,expense,Credit Card
+1,3,3,133,expense,Transport,2026-07-30,Transport,expense,UPI
+1,5,4,1026,expense,Entertainment,2026-07-30,Entertainment,expense,Credit Card
+2,11,7,90,expense,Food,2026-07-30,Food,expense,UPI
+2,13,7,288,expense,Transport,2026-07-30,Transport,expense,UPI
+3,23,11,216,expense,Transport,2026-07-30,Transport,expense,UPI
+1,3,4,187,expense,Transport,2026-07-31,Transport,expense,Credit Card
+2,11,5,124,expense,Food,2026-07-31,Food,expense,Cash
+3,21,11,405,expense,Food,2026-07-31,Food,expense,UPI
+3,23,11,104,expense,Transport,2026-07-31,Transport,expense,UPI
+1,9,2,30000,income,Salary,2026-08-01,Salary,income,Bank
+1,1,3,426,expense,Food,2026-08-01,Food,expense,UPI
+2,19,6,35000,income,Salary,2026-08-01,Salary,income,Bank
+2,11,7,403,expense,Food,2026-08-01,Food,expense,UPI
+3,29,10,40000,income,Salary,2026-08-01,Salary,income,Bank
+3,21,11,295,expense,Food,2026-08-01,Food,expense,UPI
+3,24,11,1307,expense,Shopping,2026-08-01,Shopping,expense,UPI
+1,3,3,90,expense,Transport,2026-08-02,Transport,expense,UPI
+3,21,11,108,expense,Food,2026-08-02,Food,expense,UPI
+1,1,4,409,expense,Food,2026-08-03,Food,expense,Credit Card
+2,11,8,162,expense,Food,2026-08-03,Food,expense,Credit Card
+3,21,11,336,expense,Food,2026-08-03,Food,expense,UPI
+3,24,12,2345,expense,Shopping,2026-08-03,Shopping,expense,Credit Card
+3,25,11,983,expense,Entertainment,2026-08-03,Entertainment,expense,UPI
+1,1,3,174,expense,Food,2026-08-04,Food,expense,UPI
+1,3,1,234,expense,Transport,2026-08-04,Transport,expense,Cash
+2,13,7,55,expense,Transport,2026-08-04,Transport,expense,UPI
+3,21,11,265,expense,Food,2026-08-04,Food,expense,UPI
+1,2,2,8000,expense,Rent,2026-08-05,Rent,expense,Bank
+1,1,3,160,expense,Food,2026-08-05,Food,expense,UPI
+1,3,3,273,expense,Transport,2026-08-05,Transport,expense,UPI
+2,12,6,8000,expense,Rent,2026-08-05,Rent,expense,Bank
+2,11,7,342,expense,Food,2026-08-05,Food,expense,UPI
+2,13,5,149,expense,Transport,2026-08-05,Transport,expense,Cash
+3,22,10,8000,expense,Rent,2026-08-05,Rent,expense,Bank
+3,21,11,164,expense,Food,2026-08-05,Food,expense,UPI
+3,23,10,63,expense,Transport,2026-08-05,Transport,expense,Bank
+3,24,11,2358,expense,Shopping,2026-08-05,Shopping,expense,UPI
+1,1,3,123,expense,Food,2026-08-06,Food,expense,UPI
+1,3,1,114,expense,Transport,2026-08-06,Transport,expense,Cash
+2,11,8,150,expense,Food,2026-08-06,Food,expense,Credit Card
+2,13,8,158,expense,Transport,2026-08-06,Transport,expense,Credit Card
+3,21,11,242,expense,Food,2026-08-06,Food,expense,UPI
+3,24,11,1382,expense,Shopping,2026-08-06,Shopping,expense,UPI
+1,4,2,1214,expense,Shopping,2026-08-07,Shopping,expense,Bank
+2,11,8,348,expense,Food,2026-08-07,Food,expense,Credit Card
+2,13,8,187,expense,Transport,2026-08-07,Transport,expense,Credit Card
+3,21,11,303,expense,Food,2026-08-07,Food,expense,UPI
+3,23,11,105,expense,Transport,2026-08-07,Transport,expense,UPI
+1,1,1,130,expense,Food,2026-08-08,Food,expense,Cash
+1,3,3,48,expense,Transport,2026-08-08,Transport,expense,UPI
+2,11,7,310,expense,Food,2026-08-08,Food,expense,UPI
+2,13,7,233,expense,Transport,2026-08-08,Transport,expense,UPI
+3,21,11,177,expense,Food,2026-08-08,Food,expense,UPI
+3,23,12,178,expense,Transport,2026-08-08,Transport,expense,Credit Card
+3,25,11,1111,expense,Entertainment,2026-08-08,Entertainment,expense,UPI
+1,1,3,250,expense,Food,2026-08-09,Food,expense,UPI
+1,3,1,262,expense,Transport,2026-08-09,Transport,expense,Cash
+2,11,8,260,expense,Food,2026-08-09,Food,expense,Credit Card
+2,13,5,208,expense,Transport,2026-08-09,Transport,expense,Cash
+1,6,2,1561,expense,Bills,2026-08-10,Bills,expense,Bank
+1,1,3,103,expense,Food,2026-08-10,Food,expense,UPI
+2,16,6,1797,expense,Bills,2026-08-10,Bills,expense,Bank
+2,11,8,206,expense,Food,2026-08-10,Food,expense,Credit Card
+2,13,7,126,expense,Transport,2026-08-10,Transport,expense,UPI
+3,26,10,1519,expense,Bills,2026-08-10,Bills,expense,Bank
+3,21,10,104,expense,Food,2026-08-10,Food,expense,Bank
+3,23,11,35,expense,Transport,2026-08-10,Transport,expense,UPI
+1,1,2,179,expense,Food,2026-08-11,Food,expense,Bank
+2,11,5,379,expense,Food,2026-08-11,Food,expense,Cash
+2,13,5,121,expense,Transport,2026-08-11,Transport,expense,Cash
+3,21,11,241,expense,Food,2026-08-11,Food,expense,UPI
+3,23,12,243,expense,Transport,2026-08-11,Transport,expense,Credit Card
+1,1,2,229,expense,Food,2026-08-12,Food,expense,Bank
+1,3,4,55,expense,Transport,2026-08-12,Transport,expense,Credit Card
+1,5,3,221,expense,Entertainment,2026-08-12,Entertainment,expense,UPI
+2,11,7,374,expense,Food,2026-08-12,Food,expense,UPI
+3,21,11,229,expense,Food,2026-08-12,Food,expense,UPI
+1,1,4,399,expense,Food,2026-08-13,Food,expense,Credit Card
+2,11,6,277,expense,Food,2026-08-13,Food,expense,Bank
+3,21,11,215,expense,Food,2026-08-13,Food,expense,UPI
+3,23,11,215,expense,Transport,2026-08-13,Transport,expense,UPI
+1,3,3,141,expense,Transport,2026-08-14,Transport,expense,UPI
+2,11,7,122,expense,Food,2026-08-14,Food,expense,UPI
+2,13,7,253,expense,Transport,2026-08-14,Transport,expense,UPI
+3,21,11,139,expense,Food,2026-08-14,Food,expense,UPI
+3,23,11,247,expense,Transport,2026-08-14,Transport,expense,UPI
+1,8,3,1500,expense,Education,2026-08-15,Education,expense,UPI
+1,3,3,262,expense,Transport,2026-08-15,Transport,expense,UPI
+1,4,1,2641,expense,Shopping,2026-08-15,Shopping,expense,Cash
+2,18,7,1500,expense,Education,2026-08-15,Education,expense,UPI
+2,11,5,113,expense,Food,2026-08-15,Food,expense,Cash
+3,28,11,1500,expense,Education,2026-08-15,Education,expense,UPI
+3,21,10,273,expense,Food,2026-08-15,Food,expense,Bank
+1,3,3,248,expense,Transport,2026-08-16,Transport,expense,UPI
+2,11,7,236,expense,Food,2026-08-16,Food,expense,UPI
+2,13,7,292,expense,Transport,2026-08-16,Transport,expense,UPI
+3,21,11,431,expense,Food,2026-08-16,Food,expense,UPI
+3,23,11,214,expense,Transport,2026-08-16,Transport,expense,UPI
+1,1,4,384,expense,Food,2026-08-17,Food,expense,Credit Card
+1,3,2,194,expense,Transport,2026-08-17,Transport,expense,Bank
+2,11,8,169,expense,Food,2026-08-17,Food,expense,Credit Card
+3,23,12,262,expense,Transport,2026-08-17,Transport,expense,Credit Card
+1,3,3,252,expense,Transport,2026-08-18,Transport,expense,UPI
+3,21,12,385,expense,Food,2026-08-18,Food,expense,Credit Card
+1,1,4,383,expense,Food,2026-08-19,Food,expense,Credit Card
+2,11,8,353,expense,Food,2026-08-19,Food,expense,Credit Card
+2,13,7,44,expense,Transport,2026-08-19,Transport,expense,UPI
+3,21,11,312,expense,Food,2026-08-19,Food,expense,UPI
+3,23,11,73,expense,Transport,2026-08-19,Transport,expense,UPI
+2,11,5,386,expense,Food,2026-08-20,Food,expense,Cash
+1,1,1,416,expense,Food,2026-08-21,Food,expense,Cash
+2,11,7,176,expense,Food,2026-08-21,Food,expense,UPI
+2,13,7,286,expense,Transport,2026-08-21,Transport,expense,UPI
+2,14,8,1475,expense,Shopping,2026-08-21,Shopping,expense,Credit Card
+3,21,11,344,expense,Food,2026-08-21,Food,expense,UPI
+3,23,12,241,expense,Transport,2026-08-21,Transport,expense,Credit Card
+2,11,7,134,expense,Food,2026-08-22,Food,expense,UPI
+2,13,7,197,expense,Transport,2026-08-22,Transport,expense,UPI
+3,21,11,129,expense,Food,2026-08-22,Food,expense,UPI
+3,23,9,215,expense,Transport,2026-08-22,Transport,expense,Cash
+1,1,3,102,expense,Food,2026-08-23,Food,expense,UPI
+1,3,3,275,expense,Transport,2026-08-23,Transport,expense,UPI
+2,11,8,97,expense,Food,2026-08-23,Food,expense,Credit Card
+2,13,5,112,expense,Transport,2026-08-23,Transport,expense,Cash
+3,21,9,176,expense,Food,2026-08-23,Food,expense,Cash
+1,1,3,132,expense,Food,2026-08-24,Food,expense,UPI
+1,3,3,65,expense,Transport,2026-08-24,Transport,expense,UPI
+2,13,8,195,expense,Transport,2026-08-24,Transport,expense,Credit Card
+3,23,10,236,expense,Transport,2026-08-24,Transport,expense,Bank
+1,1,3,135,expense,Food,2026-08-25,Food,expense,UPI
+1,3,3,100,expense,Transport,2026-08-25,Transport,expense,UPI
+2,13,7,221,expense,Transport,2026-08-25,Transport,expense,UPI
+3,23,11,264,expense,Transport,2026-08-25,Transport,expense,UPI
+1,1,4,297,expense,Food,2026-08-26,Food,expense,Credit Card
+2,11,7,364,expense,Food,2026-08-26,Food,expense,UPI
+2,15,5,865,expense,Entertainment,2026-08-26,Entertainment,expense,Cash
+3,21,10,390,expense,Food,2026-08-26,Food,expense,Bank
+3,23,11,254,expense,Transport,2026-08-26,Transport,expense,UPI
+1,1,3,439,expense,Food,2026-08-27,Food,expense,UPI
+2,11,6,291,expense,Food,2026-08-27,Food,expense,Bank
+2,13,7,204,expense,Transport,2026-08-27,Transport,expense,UPI
+2,15,7,1149,expense,Entertainment,2026-08-27,Entertainment,expense,UPI
+3,21,11,437,expense,Food,2026-08-27,Food,expense,UPI
+3,24,12,740,expense,Shopping,2026-08-27,Shopping,expense,Credit Card
+1,1,1,125,expense,Food,2026-08-28,Food,expense,Cash
+1,3,3,248,expense,Transport,2026-08-28,Transport,expense,UPI
+2,11,8,270,expense,Food,2026-08-28,Food,expense,Credit Card
+2,13,8,159,expense,Transport,2026-08-28,Transport,expense,Credit Card
+1,1,3,163,expense,Food,2026-08-29,Food,expense,UPI
+2,11,7,242,expense,Food,2026-08-29,Food,expense,UPI
+1,1,3,120,expense,Food,2026-08-30,Food,expense,UPI
+1,3,3,208,expense,Transport,2026-08-30,Transport,expense,UPI
+2,11,7,122,expense,Food,2026-08-30,Food,expense,UPI
+3,21,12,190,expense,Food,2026-08-30,Food,expense,Credit Card
+1,1,2,402,expense,Food,2026-08-31,Food,expense,Bank
+1,3,3,232,expense,Transport,2026-08-31,Transport,expense,UPI
+2,11,7,123,expense,Food,2026-08-31,Food,expense,UPI
+2,13,7,217,expense,Transport,2026-08-31,Transport,expense,UPI
+3,21,9,440,expense,Food,2026-08-31,Food,expense,Cash
+3,23,9,216,expense,Transport,2026-08-31,Transport,expense,Cash
+1,9,2,30000,income,Salary,2026-09-01,Salary,income,Bank
+1,1,3,86,expense,Food,2026-09-01,Food,expense,UPI
+2,19,6,35000,income,Salary,2026-09-01,Salary,income,Bank
+2,11,7,312,expense,Food,2026-09-01,Food,expense,UPI
+3,29,10,40000,income,Salary,2026-09-01,Salary,income,Bank
+3,21,11,141,expense,Food,2026-09-01,Food,expense,UPI
+3,23,12,290,expense,Transport,2026-09-01,Transport,expense,Credit Card
+1,1,1,389,expense,Food,2026-09-02,Food,expense,Cash
+1,3,3,200,expense,Transport,2026-09-02,Transport,expense,UPI
+2,11,5,285,expense,Food,2026-09-02,Food,expense,Cash
+2,13,7,161,expense,Transport,2026-09-02,Transport,expense,UPI
+3,23,12,173,expense,Transport,2026-09-02,Transport,expense,Credit Card
+1,3,3,164,expense,Transport,2026-09-03,Transport,expense,UPI
+2,11,7,151,expense,Food,2026-09-03,Food,expense,UPI
+2,13,7,89,expense,Transport,2026-09-03,Transport,expense,UPI
+2,11,8,310,expense,Food,2026-09-04,Food,expense,Credit Card
+2,13,8,210,expense,Transport,2026-09-04,Transport,expense,Credit Card
+3,21,11,448,expense,Food,2026-09-04,Food,expense,UPI
+3,23,11,43,expense,Transport,2026-09-04,Transport,expense,UPI
+3,24,12,1264,expense,Shopping,2026-09-04,Shopping,expense,Credit Card
+1,2,2,8000,expense,Rent,2026-09-05,Rent,expense,Bank
+1,3,3,146,expense,Transport,2026-09-05,Transport,expense,UPI
+2,12,6,8000,expense,Rent,2026-09-05,Rent,expense,Bank
+2,11,7,211,expense,Food,2026-09-05,Food,expense,UPI
+2,13,8,102,expense,Transport,2026-09-05,Transport,expense,Credit Card
+3,22,10,8000,expense,Rent,2026-09-05,Rent,expense,Bank
+3,21,12,423,expense,Food,2026-09-05,Food,expense,Credit Card
+3,23,11,257,expense,Transport,2026-09-05,Transport,expense,UPI
+3,24,11,1949,expense,Shopping,2026-09-05,Shopping,expense,UPI
+1,3,3,200,expense,Transport,2026-09-06,Transport,expense,UPI
+2,11,7,267,expense,Food,2026-09-06,Food,expense,UPI
+2,14,5,1203,expense,Shopping,2026-09-06,Shopping,expense,Cash
+3,21,11,365,expense,Food,2026-09-06,Food,expense,UPI
+3,23,12,122,expense,Transport,2026-09-06,Transport,expense,Credit Card
+3,25,11,943,expense,Entertainment,2026-09-06,Entertainment,expense,UPI
+1,1,3,359,expense,Food,2026-09-07,Food,expense,UPI
+1,3,3,246,expense,Transport,2026-09-07,Transport,expense,UPI
+2,15,7,160,expense,Entertainment,2026-09-07,Entertainment,expense,UPI
+3,23,11,295,expense,Transport,2026-09-07,Transport,expense,UPI
+3,25,12,843,expense,Entertainment,2026-09-07,Entertainment,expense,Credit Card
+1,3,1,223,expense,Transport,2026-09-08,Transport,expense,Cash
+2,11,5,285,expense,Food,2026-09-08,Food,expense,Cash
+2,13,8,275,expense,Transport,2026-09-08,Transport,expense,Credit Card
+2,14,7,1725,expense,Shopping,2026-09-08,Shopping,expense,UPI
+3,21,11,281,expense,Food,2026-09-08,Food,expense,UPI
+1,1,3,153,expense,Food,2026-09-09,Food,expense,UPI
+1,3,3,120,expense,Transport,2026-09-09,Transport,expense,UPI
+2,13,7,179,expense,Transport,2026-09-09,Transport,expense,UPI
+3,21,12,299,expense,Food,2026-09-09,Food,expense,Credit Card
+3,23,12,226,expense,Transport,2026-09-09,Transport,expense,Credit Card
+1,6,2,1581,expense,Bills,2026-09-10,Bills,expense,Bank
+1,1,3,126,expense,Food,2026-09-10,Food,expense,UPI
+2,16,6,1205,expense,Bills,2026-09-10,Bills,expense,Bank
+2,11,6,378,expense,Food,2026-09-10,Food,expense,Bank
+3,26,10,1746,expense,Bills,2026-09-10,Bills,expense,Bank
+3,23,11,210,expense,Transport,2026-09-10,Transport,expense,UPI
+1,1,4,119,expense,Food,2026-09-11,Food,expense,Credit Card
+2,11,7,232,expense,Food,2026-09-11,Food,expense,UPI
+2,13,7,65,expense,Transport,2026-09-11,Transport,expense,UPI
+2,15,5,573,expense,Entertainment,2026-09-11,Entertainment,expense,Cash
+3,21,12,296,expense,Food,2026-09-11,Food,expense,Credit Card
+1,1,3,140,expense,Food,2026-09-12,Food,expense,UPI
+2,11,7,337,expense,Food,2026-09-12,Food,expense,UPI
+2,13,7,72,expense,Transport,2026-09-12,Transport,expense,UPI
+3,23,11,108,expense,Transport,2026-09-12,Transport,expense,UPI
+1,1,3,90,expense,Food,2026-09-13,Food,expense,UPI
+1,3,4,144,expense,Transport,2026-09-13,Transport,expense,Credit Card
+2,11,8,81,expense,Food,2026-09-13,Food,expense,Credit Card
+2,14,7,1599,expense,Shopping,2026-09-13,Shopping,expense,UPI
+3,21,11,389,expense,Food,2026-09-13,Food,expense,UPI
+1,1,1,135,expense,Food,2026-09-14,Food,expense,Cash
+1,4,1,1984,expense,Shopping,2026-09-14,Shopping,expense,Cash
+2,11,7,328,expense,Food,2026-09-14,Food,expense,UPI
+2,13,7,54,expense,Transport,2026-09-14,Transport,expense,UPI
+2,15,5,960,expense,Entertainment,2026-09-14,Entertainment,expense,Cash
+3,21,9,112,expense,Food,2026-09-14,Food,expense,Cash
+1,8,3,1500,expense,Education,2026-09-15,Education,expense,UPI
+1,1,4,266,expense,Food,2026-09-15,Food,expense,Credit Card
+1,3,1,174,expense,Transport,2026-09-15,Transport,expense,Cash
+2,18,7,1500,expense,Education,2026-09-15,Education,expense,UPI
+2,15,7,486,expense,Entertainment,2026-09-15,Entertainment,expense,UPI
+3,28,11,1500,expense,Education,2026-09-15,Education,expense,UPI
+3,21,10,206,expense,Food,2026-09-15,Food,expense,Bank
+3,23,11,173,expense,Transport,2026-09-15,Transport,expense,UPI
+3,25,10,719,expense,Entertainment,2026-09-15,Entertainment,expense,Bank
+1,1,4,137,expense,Food,2026-09-16,Food,expense,Credit Card
+1,5,2,341,expense,Entertainment,2026-09-16,Entertainment,expense,Bank
+2,11,7,133,expense,Food,2026-09-16,Food,expense,UPI
+3,21,11,301,expense,Food,2026-09-16,Food,expense,UPI
+3,23,11,166,expense,Transport,2026-09-16,Transport,expense,UPI
+1,1,3,91,expense,Food,2026-09-17,Food,expense,UPI
+1,5,1,765,expense,Entertainment,2026-09-17,Entertainment,expense,Cash
+2,11,5,126,expense,Food,2026-09-17,Food,expense,Cash
+3,21,11,280,expense,Food,2026-09-17,Food,expense,UPI
+3,23,11,287,expense,Transport,2026-09-17,Transport,expense,UPI
+2,11,6,181,expense,Food,2026-09-18,Food,expense,Bank
+2,13,5,300,expense,Transport,2026-09-18,Transport,expense,Cash
+3,21,11,278,expense,Food,2026-09-18,Food,expense,UPI
+3,23,11,219,expense,Transport,2026-09-18,Transport,expense,UPI
+1,3,3,247,expense,Transport,2026-09-19,Transport,expense,UPI
+3,21,10,202,expense,Food,2026-09-19,Food,expense,Bank
+1,10,2,3078,income,Freelance,2026-09-20,Freelance,income,Bank
+1,1,3,411,expense,Food,2026-09-20,Food,expense,UPI
+2,11,7,388,expense,Food,2026-09-20,Food,expense,UPI
+3,21,11,364,expense,Food,2026-09-20,Food,expense,UPI
+3,24,11,2828,expense,Shopping,2026-09-20,Shopping,expense,UPI
+1,1,3,421,expense,Food,2026-09-21,Food,expense,UPI
+1,3,3,196,expense,Transport,2026-09-21,Transport,expense,UPI
+2,11,7,184,expense,Food,2026-09-21,Food,expense,UPI
+3,23,12,184,expense,Transport,2026-09-21,Transport,expense,Credit Card
+1,1,1,289,expense,Food,2026-09-22,Food,expense,Cash
+1,3,3,48,expense,Transport,2026-09-22,Transport,expense,UPI
+2,11,8,151,expense,Food,2026-09-22,Food,expense,Credit Card
+3,21,9,248,expense,Food,2026-09-22,Food,expense,Cash
+1,3,2,104,expense,Transport,2026-09-23,Transport,expense,Bank
+2,11,8,163,expense,Food,2026-09-23,Food,expense,Credit Card
+2,13,7,151,expense,Transport,2026-09-23,Transport,expense,UPI
+2,14,7,521,expense,Shopping,2026-09-23,Shopping,expense,UPI
+2,17,8,2450,expense,Health,2026-09-23,Health,expense,Credit Card
+3,21,11,172,expense,Food,2026-09-23,Food,expense,UPI
+3,23,11,199,expense,Transport,2026-09-23,Transport,expense,UPI
+3,24,11,2482,expense,Shopping,2026-09-23,Shopping,expense,UPI
+1,1,3,120,expense,Food,2026-09-24,Food,expense,UPI
+1,3,3,45,expense,Transport,2026-09-24,Transport,expense,UPI
+2,11,5,363,expense,Food,2026-09-24,Food,expense,Cash
+2,15,7,185,expense,Entertainment,2026-09-24,Entertainment,expense,UPI
+3,23,11,278,expense,Transport,2026-09-24,Transport,expense,UPI
+1,1,1,287,expense,Food,2026-09-25,Food,expense,Cash
+1,3,3,56,expense,Transport,2026-09-25,Transport,expense,UPI
+2,11,7,222,expense,Food,2026-09-25,Food,expense,UPI
+1,1,1,105,expense,Food,2026-09-26,Food,expense,Cash
+2,11,7,348,expense,Food,2026-09-26,Food,expense,UPI
+2,13,7,245,expense,Transport,2026-09-26,Transport,expense,UPI
+2,14,7,1477,expense,Shopping,2026-09-26,Shopping,expense,UPI
+3,21,12,367,expense,Food,2026-09-26,Food,expense,Credit Card
+3,23,11,123,expense,Transport,2026-09-26,Transport,expense,UPI
+3,25,9,862,expense,Entertainment,2026-09-26,Entertainment,expense,Cash
+1,1,4,398,expense,Food,2026-09-27,Food,expense,Credit Card
+1,3,3,84,expense,Transport,2026-09-27,Transport,expense,UPI
+2,11,5,443,expense,Food,2026-09-27,Food,expense,Cash
+3,21,11,140,expense,Food,2026-09-27,Food,expense,UPI
+3,23,12,41,expense,Transport,2026-09-27,Transport,expense,Credit Card
+3,25,11,392,expense,Entertainment,2026-09-27,Entertainment,expense,UPI
+1,1,4,432,expense,Food,2026-09-28,Food,expense,Credit Card
+1,3,4,85,expense,Transport,2026-09-28,Transport,expense,Credit Card
+2,11,7,123,expense,Food,2026-09-28,Food,expense,UPI
+2,13,7,188,expense,Transport,2026-09-28,Transport,expense,UPI
+2,15,7,358,expense,Entertainment,2026-09-28,Entertainment,expense,UPI
+1,1,4,417,expense,Food,2026-09-29,Food,expense,Credit Card
+1,3,1,132,expense,Transport,2026-09-29,Transport,expense,Cash
+2,11,7,380,expense,Food,2026-09-29,Food,expense,UPI
+3,24,11,2795,expense,Shopping,2026-09-29,Shopping,expense,UPI
+1,1,3,302,expense,Food,2026-09-30,Food,expense,UPI
+1,5,1,349,expense,Entertainment,2026-09-30,Entertainment,expense,Cash
+2,11,7,100,expense,Food,2026-09-30,Food,expense,UPI
+3,23,11,157,expense,Transport,2026-09-30,Transport,expense,UPI
+3,25,11,939,expense,Entertainment,2026-09-30,Entertainment,expense,UPI
+1,9,2,30000,income,Salary,2026-10-01,Salary,income,Bank
+1,1,3,252,expense,Food,2026-10-01,Food,expense,UPI
+1,3,3,218,expense,Transport,2026-10-01,Transport,expense,UPI
+2,19,6,35000,income,Salary,2026-10-01,Salary,income,Bank
+2,11,6,296,expense,Food,2026-10-01,Food,expense,Bank
+2,13,7,85,expense,Transport,2026-10-01,Transport,expense,UPI
+3,29,10,40000,income,Salary,2026-10-01,Salary,income,Bank
+1,1,3,244,expense,Food,2026-10-02,Food,expense,UPI
+1,3,1,156,expense,Transport,2026-10-02,Transport,expense,Cash
+2,11,8,197,expense,Food,2026-10-02,Food,expense,Credit Card
+2,13,7,93,expense,Transport,2026-10-02,Transport,expense,UPI
+1,1,3,94,expense,Food,2026-10-03,Food,expense,UPI
+1,3,3,119,expense,Transport,2026-10-03,Transport,expense,UPI
+2,11,8,449,expense,Food,2026-10-03,Food,expense,Credit Card
+3,21,11,384,expense,Food,2026-10-03,Food,expense,UPI
+1,1,3,270,expense,Food,2026-10-04,Food,expense,UPI
+1,4,3,913,expense,Shopping,2026-10-04,Shopping,expense,UPI
+2,11,8,360,expense,Food,2026-10-04,Food,expense,Credit Card
+3,21,12,338,expense,Food,2026-10-04,Food,expense,Credit Card
+3,23,11,181,expense,Transport,2026-10-04,Transport,expense,UPI
+1,2,2,8000,expense,Rent,2026-10-05,Rent,expense,Bank
+1,3,4,255,expense,Transport,2026-10-05,Transport,expense,Credit Card
+2,12,6,8000,expense,Rent,2026-10-05,Rent,expense,Bank
+2,11,8,279,expense,Food,2026-10-05,Food,expense,Credit Card
+2,13,7,242,expense,Transport,2026-10-05,Transport,expense,UPI
+3,22,10,8000,expense,Rent,2026-10-05,Rent,expense,Bank
+3,21,9,303,expense,Food,2026-10-05,Food,expense,Cash
+1,1,3,150,expense,Food,2026-10-06,Food,expense,UPI
+1,3,1,152,expense,Transport,2026-10-06,Transport,expense,Cash
+1,5,3,731,expense,Entertainment,2026-10-06,Entertainment,expense,UPI
+2,11,7,149,expense,Food,2026-10-06,Food,expense,UPI
+2,13,6,107,expense,Transport,2026-10-06,Transport,expense,Bank
+2,14,5,489,expense,Shopping,2026-10-06,Shopping,expense,Cash
+2,15,7,330,expense,Entertainment,2026-10-06,Entertainment,expense,UPI
+3,21,11,121,expense,Food,2026-10-06,Food,expense,UPI
+3,25,10,1059,expense,Entertainment,2026-10-06,Entertainment,expense,Bank
+1,1,3,343,expense,Food,2026-10-07,Food,expense,UPI
+1,3,1,284,expense,Transport,2026-10-07,Transport,expense,Cash
+2,11,7,133,expense,Food,2026-10-07,Food,expense,UPI
+2,13,7,248,expense,Transport,2026-10-07,Transport,expense,UPI
+3,21,9,353,expense,Food,2026-10-07,Food,expense,Cash
+3,23,12,153,expense,Transport,2026-10-07,Transport,expense,Credit Card
+1,1,4,145,expense,Food,2026-10-08,Food,expense,Credit Card
+1,3,4,228,expense,Transport,2026-10-08,Transport,expense,Credit Card
+2,11,7,430,expense,Food,2026-10-08,Food,expense,UPI
+2,13,8,104,expense,Transport,2026-10-08,Transport,expense,Credit Card
+3,21,12,160,expense,Food,2026-10-08,Food,expense,Credit Card
+3,23,10,179,expense,Transport,2026-10-08,Transport,expense,Bank
+3,25,11,955,expense,Entertainment,2026-10-08,Entertainment,expense,UPI
+1,1,3,267,expense,Food,2026-10-09,Food,expense,UPI
+1,3,3,218,expense,Transport,2026-10-09,Transport,expense,UPI
+2,13,7,61,expense,Transport,2026-10-09,Transport,expense,UPI
+3,21,11,283,expense,Food,2026-10-09,Food,expense,UPI
+3,23,10,68,expense,Transport,2026-10-09,Transport,expense,Bank
+1,6,2,1218,expense,Bills,2026-10-10,Bills,expense,Bank
+1,1,3,126,expense,Food,2026-10-10,Food,expense,UPI
+1,4,1,330,expense,Shopping,2026-10-10,Shopping,expense,Cash
+2,16,6,1382,expense,Bills,2026-10-10,Bills,expense,Bank
+2,11,7,330,expense,Food,2026-10-10,Food,expense,UPI
+2,13,5,256,expense,Transport,2026-10-10,Transport,expense,Cash
+3,26,10,1305,expense,Bills,2026-10-10,Bills,expense,Bank
+3,21,11,99,expense,Food,2026-10-10,Food,expense,UPI
+3,23,12,237,expense,Transport,2026-10-10,Transport,expense,Credit Card
+1,1,3,446,expense,Food,2026-10-11,Food,expense,UPI
+1,3,3,211,expense,Transport,2026-10-11,Transport,expense,UPI
+1,4,4,2452,expense,Shopping,2026-10-11,Shopping,expense,Credit Card
+2,11,7,120,expense,Food,2026-10-11,Food,expense,UPI
+2,13,5,81,expense,Transport,2026-10-11,Transport,expense,Cash
+2,14,7,2835,expense,Shopping,2026-10-11,Shopping,expense,UPI
+3,21,11,229,expense,Food,2026-10-11,Food,expense,UPI
+3,23,11,154,expense,Transport,2026-10-11,Transport,expense,UPI
+3,24,12,2055,expense,Shopping,2026-10-11,Shopping,expense,Credit Card
+1,1,3,302,expense,Food,2026-10-12,Food,expense,UPI
+1,4,3,2974,expense,Shopping,2026-10-12,Shopping,expense,UPI
+1,1,4,258,expense,Food,2026-10-13,Food,expense,Credit Card
+1,3,1,188,expense,Transport,2026-10-13,Transport,expense,Cash
+2,11,6,166,expense,Food,2026-10-13,Food,expense,Bank
+3,21,9,102,expense,Food,2026-10-13,Food,expense,Cash
+3,23,11,71,expense,Transport,2026-10-13,Transport,expense,UPI
+3,24,11,2793,expense,Shopping,2026-10-13,Shopping,expense,UPI
+1,1,3,183,expense,Food,2026-10-14,Food,expense,UPI
+2,11,7,89,expense,Food,2026-10-14,Food,expense,UPI
+1,8,3,1500,expense,Education,2026-10-15,Education,expense,UPI
+1,1,3,199,expense,Food,2026-10-15,Food,expense,UPI
+1,3,3,265,expense,Transport,2026-10-15,Transport,expense,UPI
+1,4,3,2013,expense,Shopping,2026-10-15,Shopping,expense,UPI
+2,18,7,1500,expense,Education,2026-10-15,Education,expense,UPI
+2,11,5,388,expense,Food,2026-10-15,Food,expense,Cash
+2,14,7,2257,expense,Shopping,2026-10-15,Shopping,expense,UPI
+3,28,11,1500,expense,Education,2026-10-15,Education,expense,UPI
+3,21,11,172,expense,Food,2026-10-15,Food,expense,UPI
+3,23,11,202,expense,Transport,2026-10-15,Transport,expense,UPI
+1,3,3,149,expense,Transport,2026-10-16,Transport,expense,UPI
+2,14,7,2606,expense,Shopping,2026-10-16,Shopping,expense,UPI
+3,21,11,349,expense,Food,2026-10-16,Food,expense,UPI
+3,23,11,152,expense,Transport,2026-10-16,Transport,expense,UPI
+1,1,3,137,expense,Food,2026-10-17,Food,expense,UPI
+1,3,3,165,expense,Transport,2026-10-17,Transport,expense,UPI
+3,21,11,94,expense,Food,2026-10-17,Food,expense,UPI
+1,1,3,418,expense,Food,2026-10-18,Food,expense,UPI
+2,11,5,423,expense,Food,2026-10-18,Food,expense,Cash
+2,15,8,813,expense,Entertainment,2026-10-18,Entertainment,expense,Credit Card
+3,21,9,177,expense,Food,2026-10-18,Food,expense,Cash
+3,23,9,99,expense,Transport,2026-10-18,Transport,expense,Cash
+1,1,4,318,expense,Food,2026-10-19,Food,expense,Credit Card
+2,11,7,236,expense,Food,2026-10-19,Food,expense,UPI
+3,21,11,194,expense,Food,2026-10-19,Food,expense,UPI
+3,23,12,226,expense,Transport,2026-10-19,Transport,expense,Credit Card
+3,24,9,2397,expense,Shopping,2026-10-19,Shopping,expense,Cash
+1,3,3,296,expense,Transport,2026-10-20,Transport,expense,UPI
+1,5,3,881,expense,Entertainment,2026-10-20,Entertainment,expense,UPI
+2,11,7,219,expense,Food,2026-10-20,Food,expense,UPI
+2,14,7,2861,expense,Shopping,2026-10-20,Shopping,expense,UPI
+3,30,10,3483,income,Freelance,2026-10-20,Freelance,income,Bank
+3,21,12,151,expense,Food,2026-10-20,Food,expense,Credit Card
+1,1,1,110,expense,Food,2026-10-21,Food,expense,Cash
+1,3,3,47,expense,Transport,2026-10-21,Transport,expense,UPI
+1,4,3,1610,expense,Shopping,2026-10-21,Shopping,expense,UPI
+1,7,3,2397,expense,Health,2026-10-21,Health,expense,UPI
+2,11,8,95,expense,Food,2026-10-21,Food,expense,Credit Card
+2,13,8,131,expense,Transport,2026-10-21,Transport,expense,Credit Card
+3,21,12,304,expense,Food,2026-10-21,Food,expense,Credit Card
+3,23,9,123,expense,Transport,2026-10-21,Transport,expense,Cash
+1,1,1,441,expense,Food,2026-10-22,Food,expense,Cash
+1,5,4,572,expense,Entertainment,2026-10-22,Entertainment,expense,Credit Card
+2,13,7,173,expense,Transport,2026-10-22,Transport,expense,UPI
+3,21,9,402,expense,Food,2026-10-22,Food,expense,Cash
+3,25,9,1139,expense,Entertainment,2026-10-22,Entertainment,expense,Cash
+1,1,4,439,expense,Food,2026-10-23,Food,expense,Credit Card
+2,11,8,209,expense,Food,2026-10-23,Food,expense,Credit Card
+3,21,11,222,expense,Food,2026-10-23,Food,expense,UPI
+1,1,4,92,expense,Food,2026-10-24,Food,expense,Credit Card
+1,3,3,255,expense,Transport,2026-10-24,Transport,expense,UPI
+3,21,10,339,expense,Food,2026-10-24,Food,expense,Bank
+3,23,10,38,expense,Transport,2026-10-24,Transport,expense,Bank
+1,1,4,326,expense,Food,2026-10-25,Food,expense,Credit Card
+2,11,7,374,expense,Food,2026-10-25,Food,expense,UPI
+2,13,7,186,expense,Transport,2026-10-25,Transport,expense,UPI
+2,15,7,1106,expense,Entertainment,2026-10-25,Entertainment,expense,UPI
+3,21,9,370,expense,Food,2026-10-25,Food,expense,Cash
+1,1,3,206,expense,Food,2026-10-26,Food,expense,UPI
+1,4,2,1847,expense,Shopping,2026-10-26,Shopping,expense,Bank
+2,11,8,195,expense,Food,2026-10-26,Food,expense,Credit Card
+2,14,7,1444,expense,Shopping,2026-10-26,Shopping,expense,UPI
+3,23,9,190,expense,Transport,2026-10-26,Transport,expense,Cash
+3,24,11,2601,expense,Shopping,2026-10-26,Shopping,expense,UPI
+1,1,3,332,expense,Food,2026-10-27,Food,expense,UPI
+1,3,3,232,expense,Transport,2026-10-27,Transport,expense,UPI
+2,11,7,335,expense,Food,2026-10-27,Food,expense,UPI
+2,13,8,185,expense,Transport,2026-10-27,Transport,expense,Credit Card
+3,23,12,71,expense,Transport,2026-10-27,Transport,expense,Credit Card
+1,1,4,422,expense,Food,2026-10-28,Food,expense,Credit Card
+2,14,7,1359,expense,Shopping,2026-10-28,Shopping,expense,UPI
+3,21,11,107,expense,Food,2026-10-28,Food,expense,UPI
+1,1,3,200,expense,Food,2026-10-29,Food,expense,UPI
+1,5,2,469,expense,Entertainment,2026-10-29,Entertainment,expense,Bank
+2,11,7,259,expense,Food,2026-10-29,Food,expense,UPI
+2,14,8,828,expense,Shopping,2026-10-29,Shopping,expense,Credit Card
+3,23,12,262,expense,Transport,2026-10-29,Transport,expense,Credit Card
+1,1,3,212,expense,Food,2026-10-30,Food,expense,UPI
+1,3,2,62,expense,Transport,2026-10-30,Transport,expense,Bank
+2,11,8,171,expense,Food,2026-10-30,Food,expense,Credit Card
+2,13,7,112,expense,Transport,2026-10-30,Transport,expense,UPI
+3,21,10,328,expense,Food,2026-10-30,Food,expense,Bank
+3,23,11,251,expense,Transport,2026-10-30,Transport,expense,UPI
+1,1,3,125,expense,Food,2026-10-31,Food,expense,UPI
+2,13,5,56,expense,Transport,2026-10-31,Transport,expense,Cash
+3,21,11,126,expense,Food,2026-10-31,Food,expense,UPI
+3,23,12,263,expense,Transport,2026-10-31,Transport,expense,Credit Card
+1,9,2,30000,income,Salary,2026-11-01,Salary,income,Bank
+1,1,4,370,expense,Food,2026-11-01,Food,expense,Credit Card
+1,4,4,1755,expense,Shopping,2026-11-01,Shopping,expense,Credit Card
+2,19,6,35000,income,Salary,2026-11-01,Salary,income,Bank
+2,11,7,324,expense,Food,2026-11-01,Food,expense,UPI
+2,13,8,218,expense,Transport,2026-11-01,Transport,expense,Credit Card
+2,14,7,1149,expense,Shopping,2026-11-01,Shopping,expense,UPI
+2,15,5,835,expense,Entertainment,2026-11-01,Entertainment,expense,Cash
+3,29,10,40000,income,Salary,2026-11-01,Salary,income,Bank
+3,21,12,111,expense,Food,2026-11-01,Food,expense,Credit Card
+3,23,11,291,expense,Transport,2026-11-01,Transport,expense,UPI
+3,24,10,2077,expense,Shopping,2026-11-01,Shopping,expense,Bank
+2,11,7,417,expense,Food,2026-11-02,Food,expense,UPI
+3,21,11,94,expense,Food,2026-11-02,Food,expense,UPI
+3,23,12,88,expense,Transport,2026-11-02,Transport,expense,Credit Card
+3,24,9,1898,expense,Shopping,2026-11-02,Shopping,expense,Cash
+1,1,3,176,expense,Food,2026-11-03,Food,expense,UPI
+1,4,3,2851,expense,Shopping,2026-11-03,Shopping,expense,UPI
+2,11,7,313,expense,Food,2026-11-03,Food,expense,UPI
+2,13,5,204,expense,Transport,2026-11-03,Transport,expense,Cash
+3,21,11,384,expense,Food,2026-11-03,Food,expense,UPI
+3,23,12,132,expense,Transport,2026-11-03,Transport,expense,Credit Card
+1,1,1,231,expense,Food,2026-11-04,Food,expense,Cash
+1,3,3,275,expense,Transport,2026-11-04,Transport,expense,UPI
+2,11,7,442,expense,Food,2026-11-04,Food,expense,UPI
+2,13,6,241,expense,Transport,2026-11-04,Transport,expense,Bank
+2,14,7,2664,expense,Shopping,2026-11-04,Shopping,expense,UPI
+3,21,11,292,expense,Food,2026-11-04,Food,expense,UPI
+3,23,11,57,expense,Transport,2026-11-04,Transport,expense,UPI
+3,24,11,2330,expense,Shopping,2026-11-04,Shopping,expense,UPI
+1,2,2,8000,expense,Rent,2026-11-05,Rent,expense,Bank
+1,1,4,284,expense,Food,2026-11-05,Food,expense,Credit Card
+2,12,6,8000,expense,Rent,2026-11-05,Rent,expense,Bank
+2,11,8,323,expense,Food,2026-11-05,Food,expense,Credit Card
+2,13,5,102,expense,Transport,2026-11-05,Transport,expense,Cash
+3,22,10,8000,expense,Rent,2026-11-05,Rent,expense,Bank
+3,21,9,235,expense,Food,2026-11-05,Food,expense,Cash
+3,23,11,126,expense,Transport,2026-11-05,Transport,expense,UPI
+1,1,4,422,expense,Food,2026-11-06,Food,expense,Credit Card
+1,3,1,53,expense,Transport,2026-11-06,Transport,expense,Cash
+2,11,7,169,expense,Food,2026-11-06,Food,expense,UPI
+2,13,5,53,expense,Transport,2026-11-06,Transport,expense,Cash
+3,21,10,331,expense,Food,2026-11-06,Food,expense,Bank
+3,24,11,2150,expense,Shopping,2026-11-06,Shopping,expense,UPI
+1,1,3,150,expense,Food,2026-11-07,Food,expense,UPI
+1,4,3,1743,expense,Shopping,2026-11-07,Shopping,expense,UPI
+2,11,6,450,expense,Food,2026-11-07,Food,expense,Bank
+2,15,7,327,expense,Entertainment,2026-11-07,Entertainment,expense,UPI
+3,21,10,145,expense,Food,2026-11-07,Food,expense,Bank
+3,23,11,125,expense,Transport,2026-11-07,Transport,expense,UPI
+3,24,11,760,expense,Shopping,2026-11-07,Shopping,expense,UPI
+1,1,4,395,expense,Food,2026-11-08,Food,expense,Credit Card
+2,11,5,226,expense,Food,2026-11-08,Food,expense,Cash
+1,1,3,190,expense,Food,2026-11-09,Food,expense,UPI
+1,3,3,225,expense,Transport,2026-11-09,Transport,expense,UPI
+1,5,3,357,expense,Entertainment,2026-11-09,Entertainment,expense,UPI
+2,13,6,32,expense,Transport,2026-11-09,Transport,expense,Bank
+3,21,11,410,expense,Food,2026-11-09,Food,expense,UPI
+1,6,2,1649,expense,Bills,2026-11-10,Bills,expense,Bank
+1,1,3,241,expense,Food,2026-11-10,Food,expense,UPI
+1,3,4,84,expense,Transport,2026-11-10,Transport,expense,Credit Card
+1,4,3,1365,expense,Shopping,2026-11-10,Shopping,expense,UPI
+2,16,6,1364,expense,Bills,2026-11-10,Bills,expense,Bank
+2,11,6,435,expense,Food,2026-11-10,Food,expense,Bank
+2,14,7,1638,expense,Shopping,2026-11-10,Shopping,expense,UPI
+3,26,10,1609,expense,Bills,2026-11-10,Bills,expense,Bank
+3,21,10,392,expense,Food,2026-11-10,Food,expense,Bank
+3,23,11,59,expense,Transport,2026-11-10,Transport,expense,UPI
+3,24,11,1650,expense,Shopping,2026-11-10,Shopping,expense,UPI
+1,1,3,441,expense,Food,2026-11-11,Food,expense,UPI
+2,11,7,136,expense,Food,2026-11-11,Food,expense,UPI
+3,23,12,84,expense,Transport,2026-11-11,Transport,expense,Credit Card
+1,1,3,447,expense,Food,2026-11-12,Food,expense,UPI
+2,11,6,424,expense,Food,2026-11-12,Food,expense,Bank
+2,13,5,55,expense,Transport,2026-11-12,Transport,expense,Cash
+2,14,7,1127,expense,Shopping,2026-11-12,Shopping,expense,UPI
+3,21,11,269,expense,Food,2026-11-12,Food,expense,UPI
+1,1,3,198,expense,Food,2026-11-13,Food,expense,UPI
+1,3,3,44,expense,Transport,2026-11-13,Transport,expense,UPI
+2,13,7,286,expense,Transport,2026-11-13,Transport,expense,UPI
+3,21,9,399,expense,Food,2026-11-13,Food,expense,Cash
+3,23,12,128,expense,Transport,2026-11-13,Transport,expense,Credit Card
+1,1,3,222,expense,Food,2026-11-14,Food,expense,UPI
+1,4,4,625,expense,Shopping,2026-11-14,Shopping,expense,Credit Card
+2,11,7,341,expense,Food,2026-11-14,Food,expense,UPI
+2,14,7,1226,expense,Shopping,2026-11-14,Shopping,expense,UPI
+3,21,12,96,expense,Food,2026-11-14,Food,expense,Credit Card
+3,23,9,98,expense,Transport,2026-11-14,Transport,expense,Cash
+1,8,3,1500,expense,Education,2026-11-15,Education,expense,UPI
+2,18,7,1500,expense,Education,2026-11-15,Education,expense,UPI
+2,11,7,425,expense,Food,2026-11-15,Food,expense,UPI
+2,14,5,2181,expense,Shopping,2026-11-15,Shopping,expense,Cash
+3,28,11,1500,expense,Education,2026-11-15,Education,expense,UPI
+3,21,12,337,expense,Food,2026-11-15,Food,expense,Credit Card
+1,3,4,134,expense,Transport,2026-11-16,Transport,expense,Credit Card
+2,11,7,161,expense,Food,2026-11-16,Food,expense,UPI
+3,21,11,192,expense,Food,2026-11-16,Food,expense,UPI
+3,23,12,179,expense,Transport,2026-11-16,Transport,expense,Credit Card
+3,24,11,943,expense,Shopping,2026-11-16,Shopping,expense,UPI
+3,25,11,1078,expense,Entertainment,2026-11-16,Entertainment,expense,UPI
+1,1,4,318,expense,Food,2026-11-17,Food,expense,Credit Card
+1,3,4,174,expense,Transport,2026-11-17,Transport,expense,Credit Card
+1,4,3,1934,expense,Shopping,2026-11-17,Shopping,expense,UPI
+2,11,7,347,expense,Food,2026-11-17,Food,expense,UPI
+2,13,5,118,expense,Transport,2026-11-17,Transport,expense,Cash
+2,14,8,2525,expense,Shopping,2026-11-17,Shopping,expense,Credit Card
+3,21,10,279,expense,Food,2026-11-17,Food,expense,Bank
+1,1,3,322,expense,Food,2026-11-18,Food,expense,UPI
+2,11,7,295,expense,Food,2026-11-18,Food,expense,UPI
+3,21,11,3312,expense,Food,2026-11-18,Food,expense,UPI
+3,23,11,80,expense,Transport,2026-11-18,Transport,expense,UPI
+1,1,1,88,expense,Food,2026-11-19,Food,expense,Cash
+1,3,3,136,expense,Transport,2026-11-19,Transport,expense,UPI
+1,5,3,408,expense,Entertainment,2026-11-19,Entertainment,expense,UPI
+2,13,7,226,expense,Transport,2026-11-19,Transport,expense,UPI
+3,21,12,362,expense,Food,2026-11-19,Food,expense,Credit Card
+3,24,11,526,expense,Shopping,2026-11-19,Shopping,expense,UPI
+1,10,2,3076,income,Freelance,2026-11-20,Freelance,income,Bank
+1,3,4,121,expense,Transport,2026-11-20,Transport,expense,Credit Card
+2,11,7,203,expense,Food,2026-11-20,Food,expense,UPI
+2,13,7,217,expense,Transport,2026-11-20,Transport,expense,UPI
+3,30,10,5430,income,Freelance,2026-11-20,Freelance,income,Bank
+3,21,12,234,expense,Food,2026-11-20,Food,expense,Credit Card
+3,23,11,91,expense,Transport,2026-11-20,Transport,expense,UPI
+2,11,6,163,expense,Food,2026-11-21,Food,expense,Bank
+2,15,7,529,expense,Entertainment,2026-11-21,Entertainment,expense,UPI
+3,21,11,136,expense,Food,2026-11-21,Food,expense,UPI
+3,23,11,79,expense,Transport,2026-11-21,Transport,expense,UPI
+1,1,3,404,expense,Food,2026-11-22,Food,expense,UPI
+1,3,3,130,expense,Transport,2026-11-22,Transport,expense,UPI
+2,11,8,442,expense,Food,2026-11-22,Food,expense,Credit Card
+2,14,7,1506,expense,Shopping,2026-11-22,Shopping,expense,UPI
+3,23,11,226,expense,Transport,2026-11-22,Transport,expense,UPI
+3,24,11,644,expense,Shopping,2026-11-22,Shopping,expense,UPI
+1,1,3,440,expense,Food,2026-11-23,Food,expense,UPI
+2,13,7,175,expense,Transport,2026-11-23,Transport,expense,UPI
+3,21,12,275,expense,Food,2026-11-23,Food,expense,Credit Card
+1,1,3,395,expense,Food,2026-11-24,Food,expense,UPI
+1,3,3,66,expense,Transport,2026-11-24,Transport,expense,UPI
+1,4,2,1274,expense,Shopping,2026-11-24,Shopping,expense,Bank
+2,11,7,389,expense,Food,2026-11-24,Food,expense,UPI
+3,21,12,123,expense,Food,2026-11-24,Food,expense,Credit Card
+3,24,12,2180,expense,Shopping,2026-11-24,Shopping,expense,Credit Card
+1,1,1,256,expense,Food,2026-11-25,Food,expense,Cash
+1,4,3,681,expense,Shopping,2026-11-25,Shopping,expense,UPI
+1,7,4,1158,expense,Health,2026-11-25,Health,expense,Credit Card
+2,11,7,132,expense,Food,2026-11-25,Food,expense,UPI
+3,21,9,85,expense,Food,2026-11-25,Food,expense,Cash
+3,23,11,203,expense,Transport,2026-11-25,Transport,expense,UPI
+1,1,3,431,expense,Food,2026-11-26,Food,expense,UPI
+1,3,4,100,expense,Transport,2026-11-26,Transport,expense,Credit Card
+2,13,7,132,expense,Transport,2026-11-26,Transport,expense,UPI
+3,21,11,384,expense,Food,2026-11-26,Food,expense,UPI
+3,25,9,651,expense,Entertainment,2026-11-26,Entertainment,expense,Cash
+1,1,3,100,expense,Food,2026-11-27,Food,expense,UPI
+1,3,3,103,expense,Transport,2026-11-27,Transport,expense,UPI
+1,4,3,2403,expense,Shopping,2026-11-27,Shopping,expense,UPI
+2,11,7,158,expense,Food,2026-11-27,Food,expense,UPI
+2,13,6,81,expense,Transport,2026-11-27,Transport,expense,Bank
+2,14,6,949,expense,Shopping,2026-11-27,Shopping,expense,Bank
+2,15,5,197,expense,Entertainment,2026-11-27,Entertainment,expense,Cash
+3,21,11,114,expense,Food,2026-11-27,Food,expense,UPI
+3,23,10,233,expense,Transport,2026-11-27,Transport,expense,Bank
+1,1,3,128,expense,Food,2026-11-28,Food,expense,UPI
+2,11,8,89,expense,Food,2026-11-28,Food,expense,Credit Card
+3,21,9,109,expense,Food,2026-11-28,Food,expense,Cash
+1,1,3,346,expense,Food,2026-11-29,Food,expense,UPI
+2,11,8,246,expense,Food,2026-11-29,Food,expense,Credit Card
+2,13,7,198,expense,Transport,2026-11-29,Transport,expense,UPI
+2,15,8,867,expense,Entertainment,2026-11-29,Entertainment,expense,Credit Card
+1,1,3,364,expense,Food,2026-11-30,Food,expense,UPI
+1,3,4,245,expense,Transport,2026-11-30,Transport,expense,Credit Card
+2,11,7,105,expense,Food,2026-11-30,Food,expense,UPI
+2,15,8,634,expense,Entertainment,2026-11-30,Entertainment,expense,Credit Card

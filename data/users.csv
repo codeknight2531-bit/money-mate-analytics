@@ -1,0 +1,4 @@
+user_id,name,email,password_hash
+1,Aarav,aarav@example.com,demo
+2,Riya,riya@example.com,demo
+3,Kabir,kabir@example.com,demo

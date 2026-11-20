@@ -1,0 +1,13 @@
+wallet_id,user_id,name,type,initial_balance,current_balance
+1,1,Cash,cash,10000,10000
+2,1,Bank,bank,10000,10000
+3,1,UPI,upi,10000,10000
+4,1,Credit Card,card,10000,10000
+5,2,Cash,cash,10000,10000
+6,2,Bank,bank,10000,10000
+7,2,UPI,upi,10000,10000
+8,2,Credit Card,card,10000,10000
+9,3,Cash,cash,10000,10000
+10,3,Bank,bank,10000,10000
+11,3,UPI,upi,10000,10000
+12,3,Credit Card,card,10000,10000
