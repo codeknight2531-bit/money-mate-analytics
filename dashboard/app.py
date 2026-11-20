@@ -409,7 +409,7 @@ st.markdown("---")
 st.markdown(
     '<div style="text-align:center; color:#888;">'
     '💰 Money Mate Analytics | Built with Streamlit & Plotly | '
-    '<a href="https://github.com/Rajsushant25/money-mate-analytics" target="_blank">GitHub</a>'
+    '<a href="https://github.com/codeknight2531-bit/money-mate-analytics" target="_blank">GitHub</a>'
     '</div>',
     unsafe_allow_html=True
 )
