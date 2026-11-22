@@ -1,27 +1,68 @@
 # Money Mate Analytics 💰
 
-A complete **personal finance analytics** project built with MySQL, Python, and Streamlit. Analyze income, expenses, budgets, and savings with interactive dashboards.
+A **dynamic, multi-user personal finance analytics** web app. Users can sign up, log in, and manage their own finances — add transactions, set budgets, track goals, and view interactive dashboards.
 
-> 🔗 **[Live Demo on Streamlit Cloud](https://codeknight2531-bit-money-mate-analytics-dashboardapp-xxxxxx.streamlit.app)** *(link will be active after deployment — see instructions below)*
+> 🔗 **[Live Demo on Streamlit Cloud](https://codeknight2531-bit-money-mate-analytics-dashboardapp-xxxxxx.streamlit.app)** *(link active after deployment)*
 
 ---
 
-## 📋 Problem Statement
+## 🌟 Features
 
-Managing personal finances is challenging without data-driven insights. This project transforms a DBMS schema into a full analytics pipeline — generating synthetic financial data, running SQL analysis, and presenting findings through an interactive dashboard.
+### 🔐 Authentication
+- User sign-up and login with bcrypt password hashing
+- Each user sees only their own data
+- Session-based authentication
+
+### 💰 Transaction Management
+- Add income and expense transactions
+- Choose category, wallet, date, and description
+- Delete transactions with automatic wallet balance adjustment
+- Filter and search through all transactions
+
+### 💳 Wallet Management
+- Create multiple wallets (Bank, UPI, Cash, Credit Card)
+- Track real-time balances
+- Automatic balance updates on every transaction
+
+### 📁 Categories
+- Default categories created on signup
+- Add custom income and expense categories
+- Delete unused categories
+
+### 📋 Budget Tracking
+- Set monthly/weekly budgets per category
+- Visual budget vs actual comparison
+- Over-budget alerts and color-coded status
+
+### 🎯 Goal Tracking
+- Create savings goals with target dates
+- Update progress over time
+- Monthly savings needed calculator
+- Auto-completion when target is reached
+
+### 📊 Analytics Dashboard
+- Monthly income vs expense bar charts
+- Category-wise spending donut chart
+- Payment method analysis
+- Savings rate trend with 20% target line
+- Anomaly detection (3× category average)
+- Next-month expense forecast (Linear Regression)
+
+---
 
 ## 🏗️ Architecture
 
 ```
 money-mate-analytics/
-├── schema/          → SQL table definitions + ERD
-├── data/            → Data generator + CSV exports
-├── sql/             → Analysis queries + views
-├── notebooks/       → Python EDA (optional)
-├── dashboard/       → Streamlit app (app.py)
-├── docs/            → Insights + screenshots
-├── .env             → Database credentials (git-ignored)
-├── requirements.txt → Python dependencies
+├── dashboard/
+│   ├── app.py              → Main Streamlit app (auth + 7 pages)
+│   └── database.py         → SQLite database layer (all CRUD ops)
+├── schema/                  → MySQL table definitions
+├── data/                    → CSV exports + SQLite database
+├── sql/                     → Analysis queries + views
+├── docs/                    → Insights + screenshots
+├── .streamlit/config.toml   → Dark theme
+├── requirements.txt         → Python dependencies
 └── README.md
 ```
 
@@ -29,41 +70,40 @@ money-mate-analytics/
 
 | Layer | Tool |
 |-------|------|
-| Database | MySQL 8.0 |
-| Data Generation | Python (pandas, Faker-style logic) |
-| SQL Analysis | CTEs, Window Functions (LAG, RANK), Views |
-| Dashboard | Streamlit + Plotly |
-| ML Forecast | scikit-learn (Linear Regression) |
-| Deployment | Streamlit Community Cloud |
+| Database | SQLite (portable, no server needed) |
+| Auth | bcrypt password hashing |
+| Backend | Python + Streamlit |
+| Visualization | Plotly (interactive charts) |
+| ML | scikit-learn (expense forecast) |
+| Deployment | Streamlit Community Cloud (free) |
 
-## 📊 Database Schema (ERD)
+## 🚀 How to Run
 
-7 tables in 3NF:
-- `users` → `categories`, `wallets`, `transactions`, `budgets`, `goals`, `reminders`
-- Key indexes on `(user_id, transaction_date)` and `category_id`
-
-## 📈 Key Analysis Queries
-
-**1. Monthly Savings Rate (CTE + Aggregation)**
-```sql
-SELECT month, income, expense,
-       ROUND(100 * (income - expense) / income, 1) AS savings_rate
-FROM v_monthly_summary WHERE user_id = 1;
+### Quick Start
+```bash
+git clone https://github.com/codeknight2531-bit/money-mate-analytics.git
+cd money-mate-analytics
+pip install -r requirements.txt
+streamlit run dashboard/app.py
 ```
 
-**2. Top 3 Categories Per Month (RANK Window Function)**
-```sql
-SELECT month, category, spend, RANK() OVER (
-    PARTITION BY month ORDER BY spend DESC
-) AS rnk FROM v_category_spend WHERE user_id = 1;
-```
+That's it! The SQLite database auto-creates on first run. Open `http://localhost:8501`, sign up, and start managing your finances.
 
-**3. Anomaly Detection (3× Average)**
-```sql
-SELECT t.*, a.avg_amt FROM transactions t
-JOIN (SELECT category_id, AVG(amount) AS avg_amt ...) a
-WHERE t.amount > 3 * a.avg_amt;
-```
+### With MySQL (optional)
+For MySQL integration, update `.env` with your credentials and run `schema/create_tables.sql`.
+
+## 📸 Dashboard Pages
+
+| Page | Description |
+|------|-------------|
+| 🔐 Auth | Login / Sign Up |
+| 📊 Dashboard | KPIs, charts, budget status, anomalies, forecast |
+| ➕ Add Transaction | Quick transaction entry with recent activity |
+| 💳 Wallets | Manage payment methods and balances |
+| 📁 Categories | Custom income/expense categories |
+| 📋 Budget Manager | Set and track budgets |
+| 🎯 Goals | Create and update savings goals |
+| 📜 Transactions | Filter, search, and delete transactions |
 
 ## 💡 Key Insights
 
@@ -73,62 +113,21 @@ WHERE t.amount > 3 * a.avg_amt;
 4. **Savings rate: 15-40%** → Freelance income causes variance
 5. **8 anomaly transactions** → Automated alerts recommended
 
-*Full analysis with numbers: [docs/insights.md](docs/insights.md)*
-
-## 🚀 How to Run
-
-### Quick Start (CSV mode — no MySQL needed)
-```bash
-git clone https://github.com/codeknight2531-bit/money-mate-analytics.git
-cd money-mate-analytics
-pip install -r requirements.txt
-python data/generate_data.py     # generates CSV files
-streamlit run dashboard/app.py   # opens at localhost:8501
-```
-
-### With MySQL
-1. Install MySQL and create the database:
-   ```bash
-   mysql -u root -p < schema/create_tables.sql
-   mysql -u root -p < sql/views.sql
-   ```
-2. Create `.env` file:
-   ```
-   MYSQL_USER=root
-   MYSQL_PASSWORD=your_password
-   MYSQL_HOST=localhost
-   MYSQL_DB=money_mate
-   ```
-3. Generate data:
-   ```bash
-   python data/generate_data.py
-   ```
-4. Run dashboard:
-   ```bash
-   streamlit run dashboard/app.py
-   ```
-
-## 📸 Dashboard Screenshots
-
-| Overview | Budget Tracker |
-|----------|---------------|
-| ![Overview](docs/screenshots/overview.png) | ![Budget](docs/screenshots/budget.png) |
-
-| Behavior & Anomalies | Goals & Forecast |
-|----------------------|-----------------|
-| ![Behavior](docs/screenshots/behavior.png) | ![Goals](docs/screenshots/goals.png) |
-
 ## 🔮 Future Work
 
-- Real-time budget alerts via email/SMS
+- Email/SMS budget alerts
 - ML-based transaction categorization
 - Bank statement CSV import
 - Multi-currency support
-- Mobile app integration
+- Export to PDF reports
+- Mobile responsive design
 
-## 📝 Data Disclaimer
+## 📝 Data & Privacy
 
-This project uses **synthetic data** generated by `data/generate_data.py`. The pipeline, queries, and dashboard work identically with real financial data.
+- Passwords are hashed with bcrypt (never stored in plain text)
+- Each user's data is isolated
+- SQLite database is portable and self-contained
+- No external API calls — everything runs locally
 
 ---
 
