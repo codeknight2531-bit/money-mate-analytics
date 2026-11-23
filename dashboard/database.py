@@ -519,5 +519,71 @@ def get_anomalies(user_id):
     return pd.DataFrame([dict(r) for r in rows]) if rows else pd.DataFrame()
 
 
+def seed_user_sample_data(user_id):
+    """Seed a real user account with rich sample data (budgets, goals, transactions)."""
+    conn = get_conn()
+    try:
+        # Check if user has categories and wallets
+        cat_rows = conn.execute("SELECT category_id, name, type FROM categories WHERE user_id = ?", (user_id,)).fetchall()
+        wal_rows = conn.execute("SELECT wallet_id, name, type FROM wallets WHERE user_id = ?", (user_id,)).fetchall()
+        
+        cat_map = {r['name'].lower(): r['category_id'] for r in cat_rows}
+        wal_map = {r['name'].lower(): r['wallet_id'] for r in wal_rows}
+        
+        # Load sample data from CSV
+        from demo_data import load_demo_bundle
+        tx_csv, _, _, _, budgets_csv, goals_csv = load_demo_bundle()
+        
+        # Filter for user 1 as archetype
+        sample_tx = tx_csv[tx_csv.user_id == 1].head(150)
+        
+        inserted_tx = 0
+        for _, r in sample_tx.iterrows():
+            c_name = str(r['category_name']).lower()
+            w_name = str(r['wallet_name']).lower()
+            
+            cid = cat_map.get(c_name)
+            wid = wal_map.get(w_name)
+            
+            # Fallback if specific wallet or category not found
+            if not cid and cat_rows:
+                cid = cat_rows[0]['category_id']
+            if not wid and wal_rows:
+                wid = wal_rows[0]['wallet_id']
+                
+            if cid and wid:
+                conn.execute(
+                    """INSERT INTO transactions 
+                       (user_id, category_id, wallet_id, amount, type, title, description, transaction_date)
+                       VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+                    (user_id, cid, wid, float(r['amount']), str(r['type']), str(r['title']), 'Sample Transaction', str(r['transaction_date'].date()))
+                )
+                inserted_tx += 1
+                
+        # Insert sample budgets
+        for c in cat_rows:
+            if c['type'] == 'expense':
+                conn.execute(
+                    """INSERT INTO budgets (user_id, category_id, amount, period, start_date, end_date)
+                       VALUES (?, ?, ?, 'monthly', '2026-11-01', '2026-11-30')""",
+                    (user_id, c['category_id'], 5000.0)
+                )
+                
+        # Insert sample goals
+        conn.execute(
+            """INSERT INTO goals (user_id, name, target_amount, current_amount, target_date, description)
+               VALUES (?, 'Emergency Fund', 100000, 35000, '2027-06-30', '6 months living expenses'),
+                      (?, 'New Laptop', 65000, 25000, '2027-03-31', 'MacBook Air for work')""",
+            (user_id, user_id)
+        )
+        
+        conn.commit()
+        conn.close()
+        return True, f"Successfully loaded {inserted_tx} sample transactions, budgets, and goals!"
+    except Exception as e:
+        conn.close()
+        return False, str(e)
+
+
 # Initialize DB on import
 init_db()
